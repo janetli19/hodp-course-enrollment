@@ -1,0 +1,2236 @@
+"ID","Course","LongTitle","Dept","UGrad"
+"000018","MUSIC 18A","Harvard Jazz Band","Music",11
+"000025","MUSIC 25","Music Festivals","Music",17
+"000143","LING 143","Morphosemantics","Linguistics",0
+"000168","MUSIC 168","Analog Synth & Digital Age","Music",6
+"000172","MUSIC 172R","Performer-Comp Collaborative","Music",5
+"000301","MUSIC 301R","Reading and Resarch","Music",0
+"000396","BPH 396","Evol Genomics of Malaria","Bio Sciences in Public Health",0
+"107341","GENED 1076","Equity in American Education","General Education",154
+"107367","PHYSCI 10","Quant, Stat, & Comp Chemistry","Chemistry & Chemical Biology",22
+"107375","HIND-URD 91R","Hindi-Urdu Supervised Readings","South Asian Studies",2
+"107378","SAS 100R","South Asian Language Tutorials","South Asian Studies",1
+"107388","ECON 1936","Keynes","Economics",7
+"107394","RELIGION 1537","Justice, Human Rights, and Rel","Religion, The Study of",0
+"107418","HBTM 302QC","Img & Micro Meth in Bio & Med","Medical Sciences",0
+"107425","ECON 1450","Political Economy of Religion","Economics",18
+"107464","GENED 1011","Contemporary Develop Countries","General Education",61
+"107469","LING 221R","Workshop in Indo-European","Linguistics",0
+"107608","ECON 3013","Contracts and Orgs Grad Worksh","Economics",0
+"107613","ECON 1415","Analytic Frameworks for Policy","Economics",1
+"107630","GENETIC 397","Immunogenomics","Medical Sciences",0
+"107631","HBTM 348","Molecular Pathogenesis","Medical Sciences",0
+"107669","GENED 1033","Conflict Resolution in a Divid","General Education",57
+"107677","COMPSCI 281","Adv. Machine Learning","Computer Science",71
+"107703","CHEM 320","Chemical Biology","Chemistry & Chemical Biology",0
+"107706","PSY 2410R","Lab Research Emotional Disorde","Psychology",4
+"107734","ENG-SCI 350","Materials Science","Engineering Sciences",0
+"107755","NEUROBIO 230","Visual Recognition","Medical Sciences",3
+"107761","GENETIC 395","Regulation of global genes","Medical Sciences",0
+"107770","GOV 3005A","Workshop: Intl Relations","Government",0
+"107821","GENED 1120","Politic. Econ of Globalization","General Education",122
+"107827","ECON 910R","Supervised Reading and Researc","Economics",7
+"107868","CELLBIO 390","Membrane: Cytoskeleton Interfc","Medical Sciences",0
+"107877","NEUROBIO 306QC","Quantitative Methods for Biol","Medical Sciences",0
+"107885","GENETIC 394","Transcriptional Networks","Medical Sciences",0
+"107886","GENETIC 347","Ras signaling and colon cancer","Medical Sciences",0
+"107892","THI 101A","Introductory Thai I","South Asian Studies",1
+"107908","BPH 382","Aging, Stress Resistance & Die","Bio Sciences in Public Health",0
+"107995","ENG-SCI 298R","Solving Tech’s Public Dilemmas","Engineering Sciences",7
+"107996","HAA 91R","Directed Study in HAA","History of Art & Architecture",3
+"108000","E-PSCI 146","Ocean Ridges & Earth System","Earth & Planetary Sciences",4
+"108111","GENETIC 396","Genome Editing and Epigenome","Medical Sciences",0
+"108137","SOCIOL 3310","Qualifying Paper","Sociology",0
+"108212","SHBT 200","Speech and Hearing","Medical Sciences",0
+"108213","SHBT 201","Biology of the Inner Ear","Medical Sciences",0
+"108229","CHNSLIT 140","The Greatest Chinese Novel","East Asian Langs & Civ",3
+"108354","BCMP 387","Single-molecule Biophysics","Medical Sciences",0
+"108356","NEUROBIO 307","Architecture and plasticity","Medical Sciences",0
+"108397","CHNSE 166R","Chinese in the Humanities","East Asian Langs & Civ",3
+"108398","GENED 1020","Security","General Education",243
+"108405","GENED 1116","Medical Ethics and History","General Education",84
+"108419","MUSIC 181R","Performance and Culture","Music",5
+"108442","HIST 2259","Readings in Central European","History",0
+"108465","PHYSICS 143A","Quantum Mechanics I","Physics",32
+"108472","EAFM 202","Rip &Tear: Body in Jpn Film","East Asian Langs & Civ",1
+"108490","PSY 1702","The Emotional Mind","Psychology",71
+"108491","PSY 2160R","Affective and Dev. Neurosci. L","Psychology",0
+"108562","FRSEMR 43J","The Economist's View of the Wo","Freshman Seminars",12
+"108588","CLASSIC 360","Teaching Colloquium","Classics, The",0
+"108619","WOMGEN 1127","WGS in the Daily News","Women, Gender & Sexuality",27
+"108639","GOV 92R","Faculty Research Assistant","Government",19
+"108816","RSRA 298A","AM Thesis Reading & Research","Russia, E Europe, Central Asia",0
+"108818","RSRA 299A","AM Thesis Develmnt & Writing","Russia, E Europe, Central Asia",2
+"108839","SYSBIO 212","Communication of Science","Systems Biology",0
+"108851","STAT 366","Introduction to Research","Statistics",0
+"108880","APPHY 50A","Phys Fndtn for Sci & Engr Prt","Applied Physics",74
+"108892","ECON 980X","Personal Economics","Economics",11
+"108901","ECON 1010A","Intermediate Microeconomics","Economics",255
+"108968","ANTHRO 2036","Lithic Technology","Anthropology",2
+"108969","E-PSCI 56","Geobiology & History of Life","Earth & Planetary Sciences",7
+"108971","ARABIC 242AR","Arabic Five","Near Eastern Languages & Civ",3
+"108994","BBS 230","Qualitative and Quantitative A","Medical Sciences",0
+"108999","BCMP 308QC","Cell Fate Decisions","Medical Sciences",0
+"109007","SHBT 301","Acoustics & Mech of Middle Ear","Medical Sciences",0
+"109013","SHBT 310","Independent Stud in SHBT","Medical Sciences",0
+"109014","SHBT 333R","Lab Rotation in SHBT","Medical Sciences",0
+"109015","SHBT 301QC","Speech and Hearing Lab Visits","Medical Sciences",0
+"109073","MED-SCI 302QC","Conduct of Science Refresher","Medical Sciences",0
+"109087","CELLBIO 387","Calcium signaling in health","Medical Sciences",0
+"109091","HBTM 351","Bio and Immunotherapy of Chron","Medical Sciences",0
+"109095","NEUROBIO 320L","Neural Circuits Underlying Cog","Medical Sciences",0
+"109099","NEUROBIO 322L","Molecular Mechanisms","Medical Sciences",0
+"109110","CHEM 145","Experimental Inorganic Chemist","Chemistry & Chemical Biology",9
+"109111","CHEM 342","Inorganic Chemistry","Chemistry & Chemical Biology",0
+"109121","DRB 325","Tissue-Specific Stem Cells","Medical Sciences",0
+"109125","HBTM 355","Epigenetic Mechanisms","Medical Sciences",0
+"109128","HBTM 360","Molecular characterization","Medical Sciences",0
+"109129","HBTM 361","Molecular Approaches to Cell","Medical Sciences",0
+"109133","HBTM 365","Bio and Genetics of Human","Medical Sciences",0
+"109136","HBTM 369","DNA Damage Responses and Genom","Medical Sciences",0
+"109144","HBTM 375","The Molecular Genetics of Huma","Medical Sciences",0
+"109148","CELLBIO 319","Signaling Pathways in Cancer","Medical Sciences",0
+"109254","NEUROBIO 329L","Genetic & Neural Basis of Slee","Medical Sciences",0
+"109256","NEUROBIO 331L","Cortical Nets","Medical Sciences",0
+"109257","NEUROBIO 332L","Bio & Comput Underpin Visual P","Medical Sciences",0
+"109266","BPH 384","Targets for Control of Malaria","Bio Sciences in Public Health",0
+"109267","BPH 385","The Molecular Genetics of Agin","Bio Sciences in Public Health",0
+"109271","GERMAN 90R","Dutch","Germanic Languages & Lit",4
+"109272","ENG-SCI 95R","Startup R & D","Engineering Sciences",24
+"109278","COMPSCI 306","High-Perform Software Systems","Computer Science",0
+"109281","TURKISH 130A","Advanced Turkish I","Near Eastern Languages & Civ",2
+"109283","COMPSCI 280R","Curricular Design for CS","Computer Science",4
+"109287","PHYSICS 395A","Theoreticl High Enrgy/String T","Physics",0
+"109294","PHIL 303","Colloquium","Philosophy",0
+"109319","FRSEMR 23P","Physics, Math and Puzzles","Freshman Seminars",16
+"109320","FRENCH 61C","Reinventing French Cinema","Romance Languages & Lit",17
+"109330","NEUROBIO 327R","Lab Rotations in Neurosciences","Medical Sciences",0
+"109339","APCOMP 298R","Interdisciplinary Seminar in","Applied Computation",3
+"109342","PLSH CR","Advanced Polish","Slavic Languages & Literatures",1
+"109346","PHYSICS 223","Electronics for Scientists","Physics",0
+"109358","ENG-SCI 157","Biological Signal Processing","Engineering Sciences",8
+"109366","CLASARCH 159","Collecting the Past: Seminar","Classics, The",5
+"109369","NEUROBIO 334L","Cellular & Molec Mechanisms","Medical Sciences",0
+"109372","LING 91R","Supervised Reading and Researc","Linguistics",1
+"109394","HBTM 235","Human pathophysiology","Medical Sciences",0
+"109409","HIST 1206","Empire, Nation,","History",15
+"109412","APPHY 346","Interdisciplinary Dissertation","Applied Physics",0
+"109421","MED-SCI 303","Cancer Genomics","Medical Sciences",0
+"109425","ARABIC BA","Intermediate Arabic I","Near Eastern Languages & Civ",27
+"109427","AFRIKAAN AA","Elementary Afrikaans","African & African Amer Studies",20
+"109436","HIST 1520","Colonial Latin America","History",12
+"109450","MCB 309A","Sensory Process Vis. Circuits","Molecular & Cellular Biology",0
+"109454","CHEM 105","Advanced Organic Chemistry","Chemistry & Chemical Biology",4
+"109457","PHYSCI 12B","Electromagnetism Quantum Phy","Physics",66
+"109469","FRSEMR 40P","Making the Grade? Mid-High Sch","Freshman Seminars",15
+"109471","FRSEMR 31E","Magic and Other Virtual","Freshman Seminars",15
+"109475","FRSEMR 41E","American Death Penalty","Freshman Seminars",14
+"109477","ENG-SCI 91R","Supervised Reading and Researc","Engineering Sciences",17
+"109498","FRSEMR 36S","Comparative Historical Myth","Freshman Seminars",0
+"109501","GENED 1043","Amer Dreams Made in Hollywood","General Education",135
+"109512","CHNSLIT 280","Shanghai and Beijing","East Asian Langs & Civ",2
+"109521","ISLAMCIV 145B","Islamic Philosophy & Theol II","Near Eastern Languages & Civ",5
+"109527","E-PSCI 51","Planet Materials/Earth Resourc","Earth & Planetary Sciences",2
+"109546","PERSIAN 130AR","Advanced Persian I","Near Eastern Languages & Civ",1
+"109581","ANTHRO 1040","Origins of the Food We Eat","Anthropology",1
+"109586","MCB 310A","Optic Prokaryotic Cellular Org","Molecular & Cellular Biology",0
+"109597","PSY 2355R","Lab. Cog. & Neural Organ","Psychology",0
+"109605","HIST 2277","Eastern Europe","History",1
+"109613","APCOMP 299R","Special Topics Applied Comp","Applied Computation",0
+"109627","FRSEMR 21V","Black Holes, String Theory and","Freshman Seminars",14
+"109657","SOCIOL 1026","Global Social Change","Sociology",25
+"109660","HISTSCI 98","Tutorial - Junior Year","History of Science",45
+"109684","ESE 163","Pollution Control Aquatic Eco","Environmental Sci & Engineer",9
+"109731","GOV 94GK","Pol and Ethics of Medical Care","Government",13
+"109733","GOV 94PY","Rev and Pol in Contemp Iran","Government",8
+"109753","FRENCH 127","Talking About Food","Romance Languages & Lit",0
+"109759","HIST 92R","History Lab","History",1
+"109820","SPANSH 49H","Languaging and Latinx identiti","Romance Languages & Lit",16
+"109826","FRENCH 80","French Theater across Time","Romance Languages & Lit",15
+"109833","FRENCH 216","The Romance of the Rose","Romance Languages & Lit",2
+"109858","PSY 2357R","Evolution of Human Cooperation","Psychology",2
+"109860","HISTSCI 279","Freud and His Legacies","History of Science",2
+"109861","GENED 1069","Rel, Existentlsm & Human Condn","General Education",93
+"109864","RELIGION 1844","Religion, Gender, Identity Mus","Religion, The Study of",1
+"109882","ESPP 77","Technology, Environment, Socie","Envi Science & Public Policy",24
+"109883","COMPSCI 360","Online and Randomized Algorith","Computer Science",0
+"109898","APCOMP 209A","Data Science 1","Applied Computation",3
+"109899","COMPSCI 109A","Data Science 1","Computer Science",123
+"109916","FRSEMR 21I","Evolution, Buddhism, & Ethics","Freshman Seminars",12
+"109925","RELIGION 1920","The Politics of Storytelling","Religion, The Study of",0
+"109933","WOMGEN 98F","Tutorial - Junior Year","Women, Gender & Sexuality",1
+"109964","SOC-STD 98OC","Humans, Tech., and Biopolitics","Social Studies",4
+"109967","PHYSICS 144","Symmetries and Geometry in","Physics",10
+"110009","ANTHRO 2727","Anthropology of Media","Anthropology",2
+"110022","STAT 186","Causal Inference","Statistics",5
+"110055","AFVS 20","Contemporary Painting Practice","Art, Film, and Visual Studies",9
+"110061","SPANSH 126","Performing Latinidad","Romance Languages & Lit",56
+"110069","COMPLIT 343AA","Professing Literature 1","Comparative Literature",0
+"110073","BCS AA","Elementary BCS I","Slavic Languages & Literatures",3
+"110074","BCS BA","Intermediate BCS I","Slavic Languages & Literatures",1
+"110075","BCS CR","Advanced BCS","Slavic Languages & Literatures",4
+"110085","PORTUG 182","The Worlds of Camões","Romance Languages & Lit",1
+"110112","MUSIC 10A","Harvard-Radcliffe Orchestra","Music",33
+"110114","MUSIC 14A","Harvard-Radcliffe Collegium","Music",26
+"110115","MUSIC 15A","Harvard Glee Club","Music",21
+"110128","MUSIC 16A","Radcliffe Choral Society","Music",28
+"110151","HBTM 321","Regenerative Biology","Medical Sciences",0
+"110152","ANTHRO 3200","Dissertation Writing Workshop","Anthropology",0
+"110160","ECON 3005","Economic Development Grad Work","Economics",0
+"110203","PSY 980JL","Clinical Psych in Everyday Lif","Psychology",15
+"110219","CHEM 326","Physical Chemistry and Atomic","Chemistry & Chemical Biology",0
+"110228","HBTM 380","Viral evolution, Synthetic Vir","Medical Sciences",0
+"110229","HBTM 381","Neurodev & neurodegen disorder","Medical Sciences",0
+"110230","NEUROBIO 316","Sensory Neurons Mediate Touch","Medical Sciences",0
+"110241","CHEM 110","Small Molecules and Biological","Chemistry & Chemical Biology",19
+"110256","PHYSICS 304A","Field Theory & String Theory","Physics",0
+"110257","PHYSICS 304B","Field Theory & String Theory","Physics",0
+"110263","COMPSCI 380","Algorithms for Social Data","Computer Science",0
+"110265","APPHY 376","Nonlinear Dynamics of Soft","Applied Physics",0
+"110270","HAA 179X","Tectonics Lab","History of Art & Architecture",10
+"110271","STAT 314HFRA","Timely Topics in Statistics","Statistics",0
+"110285","HIST 1265","German Empires, 1848-1948","History",16
+"110300","ECON 2148","Topics in Econometrics","Economics",0
+"110309","ECON 2050","Behavioral Econ, Law & Pub Pol","Economics",0
+"110312","ECON 2099","Market Design","Economics",42
+"110319","TDM 150","Art of Scenography 20th & 21st","Theater, Dance & Media",8
+"110382","GENED 1129","Infectious Diseases Soc Injust","General Education",56
+"110387","SHBT 330","Dissertation Research","Medical Sciences",0
+"110390","SHBT 311","Clinical work at MGHIHP","Medical Sciences",0
+"110392","STAT 300HFRA","Research in Statistics","Statistics",0
+"110424","MCB 60","Cell Bio Molecular Med","Molecular & Cellular Biology",80
+"110425","FRSEMR 30Q","Death and Immortality","Freshman Seminars",14
+"110427","FRSEMR 40L","Free Speech","Freshman Seminars",13
+"110440","HUMAN 10A","Human Colloquium 10a","Humanities",89
+"110448","HIST 1935","Byzantine Imperialism","History",1
+"110450","MCB 63","Biochem & Molecular Medicine","Molecular & Cellular Biology",16
+"110494","AFRAMER 219A","Race & Ethnicity in Latin Am","African & African Amer Studies",2
+"110509","E-PSCI 247","Ocean Ridges and Earth System","Earth & Planetary Sciences",0
+"110521","BPH 219","Biological Sciences Communicat","Bio Sciences in Public Health",0
+"110526","PHYSICS 262","Statistical Mechanics","Physics",0
+"110543","CHNSE 106A","Intro to Literary Chinese","East Asian Langs & Civ",4
+"110559","BBS 333R","Research in Biol & Biomed Scie","Medical Sciences",0
+"110569","PHYSICS 91R","Supervised Reading for Undergr","Physics",2
+"110583","HISTSCI 91R","Supervised Reading & Research","History of Science",3
+"110596","MATH 19A","Modeling/Differential Equation","Mathematics",46
+"110605","AFRAMER 91R","Supervised Reading and Researc","African & African Amer Studies",2
+"110614","LATIN 117","Livy","Classics, The",9
+"110615","NEUROBIO 315","Molecular mechanisms of","Medical Sciences",0
+"110629","MUSIC 91R","Sprvsd.. Reading and Res.","Music",7
+"110640","TIBET 105AR","Intermed Colloquial Tibetan","South Asian Studies",0
+"110641","PORTUG 11S","Begin. Portug for Spnsh Spkrs","Romance Languages & Lit",6
+"110650","HAA 98AR","Faculty Tutorial","History of Art & Architecture",12
+"110660","ECON 2450A","Public Econ and Fiscal Policy","Economics",0
+"110673","HIST 3900","Writing History","History",0
+"110676","AFVS 53AR","Fundamentals of Animation","Art, Film, and Visual Studies",7
+"110684","APMTH 205","Advanced Scientific Computing","Applied Mathematics",9
+"110708","ECON 2060","Contract Theory","Economics",1
+"110709","SAS 302","Reading and Research","South Asian Studies",0
+"110714","PSY 2358R","Memory: Research Seminar","Psychology",2
+"110715","AFVS 98R","Tutorial - Junior Year","Art, Film, and Visual Studies",2
+"110717","CHEM 302","Organometallic Chemistry","Chemistry & Chemical Biology",0
+"110731","ECON 2725","Corporate Finance and Banking","Economics",2
+"110741","HEB 1418","Research Methods Endocrinology","Human Evolutionary Biology",3
+"110751","STAT 139","Linear Models","Statistics",67
+"110758","HIST 91R","Supervised Reading and Researc","History",0
+"110761","E-PSCI 91","Supervised Reading & Research","Earth & Planetary Sciences",0
+"110763","ENGLISH 91R","Supervised Reading and Researc","English",1
+"110766","STAT 110","Introduction to Probability","Statistics",519
+"110768","PSY 910R","Supervised Reading & Research","Psychology",12
+"110782","JAPAN 106A","Classical Japanese","East Asian Langs & Civ",3
+"110808","MATH 25A","Theoretical Linear Algebra and","Mathematics",61
+"110842","GOV 1270","Gov & Politics of Modern Japan","Government",46
+"110852","SPANSH 91R","Supervised Reading and Researc","Romance Languages & Lit",1
+"110853","SPANSH 70A","Hispanic Lit: the Middle Ages","Romance Languages & Lit",1
+"110859","RUSS 111","Advanced Russian","Slavic Languages & Literatures",5
+"110880","MATH 213A","Advanced Complex Analysis","Mathematics",16
+"110932","PHIL 91R","Supervised Reading & Research","Philosophy",2
+"110943","ESPP 91R","Supervised Reading and Researc","Envi Science & Public Policy",1
+"110946","AMSTDIES 398","Reading and Research","American Studies",0
+"110947","MOD-HEB 120A","Intermediate Modern Hebrew I","Near Eastern Languages & Civ",0
+"110953","GOV 2005","Formal Political Theory I","Government",0
+"110965","PHYSICS 301A","Exp. Atom. and Elem. Particles","Physics",0
+"110966","PHYSICS 301B","Exp. Atom. and Elem. Particles","Physics",0
+"110977","ANTHRO 2650A","Hist and Theory of Social Anth","Anthropology",0
+"110987","MUSIC 99R","Tutorial - Senior Year","Music",5
+"110989","MATH 21B","Linear Algebra & Differntl Equ","Mathematics",96
+"111002","LING 97R","Group Tutorial - Sophomore Yea","Linguistics",0
+"111010","MATH 1B","Calculus, Series, and","Mathematics",260
+"111023","MUSIC 310","Doctoral Dissertations","Music",0
+"111027","ENGLISH 399","Reading and Research","English",0
+"111038","NEUROBIO 346","Visual Processing in Primates","Medical Sciences",0
+"111039","E-PSCI 362","Planetary Physics Rsch Seminar","Earth & Planetary Sciences",0
+"111058","ANTHRO 3500","Direction of Doctoral","Anthropology",0
+"111065","MATH 115","Methods of Analysis","Mathematics",3
+"111105","ECON 1723","Capital Markets","Economics",38
+"111117","RELIGION 3000","Direction Doct Dissertation","Religion, The Study of",0
+"111129","CHNSE 140A","Advanced Modern Chinese","East Asian Langs & Civ",16
+"111130","STAT 211","Statistical Inference I","Statistics",22
+"111133","MATH 136","Differential Geometry","Mathematics",17
+"111136","MUSIC 185R","Experimental Music Ensemble","Music",7
+"111145","ISLAMCIV 300","Reading/Research: Islamic Civ","Near Eastern Languages & Civ",0
+"111147","PHIL 333","Prep for Topical Examination","Philosophy",0
+"111158","CHEM 388","Organic Chemistry","Chemistry & Chemical Biology",0
+"111161","MATH MA","Intro: Functions & Calculus I","Mathematics",144
+"111162","GOV 1243","Russian Politics in Transition","Government",30
+"111164","PHYSICS 15A","Intro Mechanics & Relativity","Physics",60
+"111169","PHYSICS 341A","Exp Atomic and Cond Matter Phy","Physics",0
+"111175","PHIL 3","The True and the Good","Philosophy",20
+"111189","AFVS 40A","Intro to Still Photography","Art, Film, and Visual Studies",19
+"111191","PHYSICS 287A","Introduction to String Theory","Physics",2
+"111193","JAPAN BA","Elementary Japanese","East Asian Langs & Civ",28
+"111197","PHYSICS 16","Mechanics & Special Relativity","Physics",18
+"111202","CELTIC 137","Celtic Mythology","Celtic Languages & Literatures",28
+"111210","MATH 382","Topics in Algebraic Geometry","Mathematics",0
+"111213","ECON 2010C","Economic Theory","Economics",2
+"111229","NEUROBIO 325","Synaptic Transmissions","Medical Sciences",0
+"111231","PHYSICS 151","Mechanics","Physics",8
+"111235","KOREAN 130A","Pre-advanced Korean","East Asian Langs & Civ",10
+"111282","MUSIC 207R","Ethnomusicology: Seminar","Music",3
+"111297","MATH 91R","Supervised Reading and Researc","Mathematics",4
+"111301","CZCH AA","Elementary Czech I","Slavic Languages & Literatures",2
+"111305","ASTRON 2","Celestial Navigation","Astronomy",4
+"111314","PHYSICS 251A","Advanced Quantum Mechanics I","Physics",0
+"111324","PERSIAN BA","Intermediate Persian I","Near Eastern Languages & Civ",1
+"111328","VIROLOGY 310","Viruses and Cancer","Medical Sciences",0
+"111347","MUSIC 208R","Ethnomusicology: Seminar","Music",1
+"111348","AKKAD 300","Akkadian Language & Literature","Near Eastern Languages & Civ",0
+"111353","MUSIC 4","Introduction to Composition","Music",10
+"111378","ECON 1530","International Monetary Economi","Economics",10
+"111380","CELLBIO 317","Mech of Programmed Cell Death","Medical Sciences",0
+"111393","ITAL 91R","Supervised Reading and Researc","Romance Languages & Lit",2
+"111404","ECON 3012","Labor Grad Student Workshop","Economics",0
+"111424","PHIL 140","Fundamentals of Logic","Philosophy",11
+"111425","ENGLISH 300HF","Medieval Colloquium","English",0
+"111435","CLASSIC 99A","Tutorial - Senior Year","Classics, The",9
+"111442","SUMERIAN 241","Sumerian Economic Documents","Near Eastern Languages & Civ",0
+"111451","ECON 3003","Econometrics Grad Workshop","Economics",0
+"111458","MATH 131","Topological Spaces and Fundame","Mathematics",35
+"111490","HIST 1330","Social Thought in Modern Ameri","History",15
+"111530","GOV 2002","Causal Inference","Government",0
+"111533","MATH 124","Number Theory","Mathematics",14
+"111536","GOV 2080","Machiavelli","Government",0
+"111548","GOV 1360","American Public Opinion","Government",7
+"111650","COMPLIT 299AR","Proseminar","Comparative Literature",0
+"111659","GOV 91R","Supervised Reading and Resrch","Government",1
+"111666","COMPSCI 324","Human-Computer Comm","Computer Science",0
+"111672","PHYSICS 90R","Supervised Research","Physics",30
+"111689","CHEM 323","Organic Chemistry","Chemistry & Chemical Biology",0
+"111695","MATH 23A","Linear Algebra and Real Analys","Mathematics",73
+"111696","STAT 210","Probability I","Statistics",36
+"111705","SPC-CONC 98R","Tutorial - Junior Year","Special Concentrations",1
+"111709","DESIGN 304","Doctoral Dissertations Archite","Arch, Landscape & Urban Plan",0
+"111710","MUSIC 300","Reading & Research","Music",0
+"111716","PHIL 120","The Rationalists","Philosophy",17
+"111720","MCB 169","Molecular & Cell Immunology","Molecular & Cellular Biology",52
+"111729","TURKISH AA","Elementary Modern Turkish I","Near Eastern Languages & Civ",2
+"111731","PHYSICS 143B","Quantum Mechanics","Physics",28
+"111749","ECON 1535","Intl Trade and Investment","Economics",34
+"111781","SOCIOL 3305","Teaching Practicum","Sociology",0
+"111796","GERMAN 20B","Intermediate German","Germanic Languages & Lit",3
+"111799","NEC 98A","Tutorial - Junior Year","Near Eastern Languages & Civ",6
+"111813","GOV 30","US Gov: A New Perspective","Government",87
+"111823","CHEM 311","Physical Chemistry","Chemistry & Chemical Biology",0
+"111833","BCMP 320","Systems and Synthetic Biology","Medical Sciences",0
+"111844","GOV 3009A","Research Wrkshp Applied Stats","Government",0
+"111855","E-PSCI 200","Atmospheric Chem & Physics","Earth & Planetary Sciences",1
+"111873","CLASSIC 302","Special Examinations Direction","Classics, The",0
+"111896","PHYSICS 15B","Intro Electromagnet Stat Phys","Physics",22
+"111906","GOV 1780","International Pol Economy","Government",34
+"111933","FRENCH 16","Reading French for Research","Romance Languages & Lit",1
+"111935","HIST-LIT 98","Tutorial - Junior Year","History & Literature",66
+"111954","LING 105","Sounds of Language","Linguistics",16
+"111956","WELSH 226R","Readings in Middle Welsh Prose","Celtic Languages & Literatures",0
+"111964","E-PSCI 332","Dynamic Meteorology","Earth & Planetary Sciences",0
+"111967","PHYSICS 95","Topics in Current Research","Physics",9
+"111971","ENGLISH 302HF","Renaissance Colloquium","English",0
+"111985","RELIGION 98R","Tutorial - Junior Year","Religion, The Study of",6
+"111988","FRENCH 99A","Tutorial - Senior Year","Romance Languages & Lit",1
+"111998","ECON 2723","Asset Pricing","Economics",1
+"112031","COMPLIT 399","Reading and Research","Comparative Literature",0
+"112062","ECON 1010B","Intermediate Macroeconomics","Economics",50
+"112079","HIND-URD 102A","Intermediate Hindi-Urdu","South Asian Studies",6
+"112091","PHYSICS 363A","Condensed Matter Theory","Physics",0
+"112092","PHYSICS 363B","Condensed Matter Theory","Physics",0
+"112103","CHEM 242","Quantum Mechanics","Chemistry & Chemical Biology",2
+"112107","PHYSICS 195","Intro to Solid State Physics","Physics",6
+"112119","NEUROBIO 319","Neur Control of Cell Grwth & D","Medical Sciences",0
+"112121","STAT 160","Design & Analys of Samp Survey","Statistics",3
+"112218","ANTHRO 1640","Language and Culture","Anthropology",11
+"112221","NEC 390","Doctoral Dissertations","Near Eastern Languages & Civ",0
+"112225","PSY 3900","Professional Ethics","Psychology",0
+"112226","PSY 2335R","Concepts, Actions, Objects","Psychology",2
+"112235","MUSIC BHFA","Tonal Writng & Analysis","Music",0
+"112282","PHYSICS 321A","Exp Soft Condensed Matter","Physics",0
+"112283","PHYSICS 321B","Exp Soft Condensed Matter","Physics",0
+"112288","GREEK 112A","History of Greek Literature I","Classics, The",5
+"112326","MCB 306A","Biophysics/Phys of Neurons","Molecular & Cellular Biology",0
+"112340","ITAL 15","Intensive Beginning Italian","Romance Languages & Lit",2
+"112352","SOCIOL 2296A","Inequality & Social Policy I","Sociology",0
+"112355","SOCIOL 3307","Inequality and Soc Pol III","Sociology",0
+"112378","GENED 1105","Can We Know Our Past?","General Education",63
+"112438","RELIGION 1032","Sacrifice","Religion, The Study of",2
+"112452","LING 99A","Senior Writing Thesis Year","Linguistics",8
+"112454","APPHY 364","Exp Soft Condensed Matter","Applied Physics",0
+"112465","E-PSCI 335","Climate Dynamics/Phys Oceanogr","Earth & Planetary Sciences",0
+"112472","SWEDISH 20A","Intermediate Swedish","Germanic Languages & Lit",2
+"112484","HAA 99A","Tutorial - Senior Year","History of Art & Architecture",3
+"112485","COMPLIT 98A","Tutorial - Junior Year","Comparative Literature",10
+"112487","ASTRON 98","Research Tutorial in Astrophys","Astronomy",11
+"112494","CHEM 98R","Intro to Research - Junior Yr","Chemistry & Chemical Biology",3
+"112638","CHEM 390","Organic Chem and Chemical Bio","Chemistry & Chemical Biology",0
+"112639","CHEM 391","Physical Chemistry","Chemistry & Chemical Biology",0
+"112654","COMPLIT 157","Type to Self in the Middle Age","Comparative Literature",3
+"112702","BPH 334","Human Pathogen, T. cruzi","Bio Sciences in Public Health",0
+"112742","MCB 176","Biochemistry of Membranes","Molecular & Cellular Biology",14
+"112754","GENED 1148","Moctezuma's Mexico, Then and N","General Education",83
+"112761","COMPLIT 397","Direction Doctoral Dissertatio","Comparative Literature",0
+"112792","ENGLISH 312HF","Race and Ethnicity Colloquium","English",0
+"112798","APMTH 201","Physical Mathematics I","Applied Mathematics",12
+"112805","NEUROBIO 372","Neurotrnsmtr Cntrl of Ion Chan","Medical Sciences",0
+"112819","NEC 290","Direction of Master's Thesis","Near Eastern Languages & Civ",0
+"112823","RUSS BA","Intermediate Russian I","Slavic Languages & Literatures",7
+"112835","RUSS 102","Advanced Russian","Slavic Languages & Literatures",0
+"112838","PHIL 399","Doctoral Dissertations","Philosophy",0
+"112840","NEC 300","Direction of Master's Thesis","Near Eastern Languages & Civ",1
+"112841","GERMAN 99A","Tutorial - Senior Year","Germanic Languages & Lit",1
+"112851","MICROBI 308","Bacterial/ Host Interactions","Medical Sciences",0
+"112856","SPC-CONC 99A","Tutorial - Senior Year","Special Concentrations",4
+"112869","ARABIC 241AR","Advanced Modern Arabic Bridge","Near Eastern Languages & Civ",5
+"112874","SOCIOL 2203","Adv Quantitative Research","Sociology",0
+"112899","CHNSE 107A","Intermediate Literary Chinese","East Asian Langs & Civ",0
+"112904","LATIN 111","Horace: Satires and Epistles","Classics, The",9
+"112920","GERMAN 20A","Intermediate German","Germanic Languages & Lit",13
+"112941","HISTSCI 300","Doctoral Dissertations","History of Science",0
+"112942","ECON 2020A","Microeconomic Theory I","Economics",0
+"112949","GOV 2490","The Pol Economy of the School","Government",0
+"112976","CHEM 160","The Quantum World","Chemistry & Chemical Biology",27
+"112981","HIST 3010","Reading and Research","History",0
+"113022","ANTHRO 3000","Reading Course","Anthropology",0
+"113024","CLASSIC 301","Reading or Topics Course","Classics, The",0
+"113027","COMPSCI 356","Computational Complexity","Computer Science",0
+"113083","BBS 380","Reading & Research: Biomedical","Medical Sciences",0
+"113094","PSY 971","Sophomore Tutorial in Psych.","Psychology",21
+"113117","HAA 98BR","Junior Tutorial","History of Art & Architecture",20
+"113210","GOV 1796","Centrl Challenges Am Natl Sec","Government",10
+"113215","ARABIC 249R","Arabic Philosophical Texts","Near Eastern Languages & Civ",2
+"113257","COMPSCI 91R","Supervised Reading and Researc","Computer Science",76
+"113270","COMPSCI 146","Computer Architecture","Computer Science",6
+"113276","BPH 208","Human Physiology","Bio Sciences in Public Health",0
+"113307","GERMAN 300","Dissertation","Germanic Languages & Lit",0
+"113319","GOV 99R","Tutorial - Senior Year","Government",35
+"113326","ECON 10A","Principles of Economics","Economics",604
+"113348","JAPAN 140A","Advanced Modern Japanese","East Asian Langs & Civ",3
+"113364","KORHIST 111","Traditional Korea","East Asian Langs & Civ",3
+"113369","MATH 230A","Differential Geometry","Mathematics",14
+"113378","SUMERIAN 141","Sumerian Myths and Epics","Near Eastern Languages & Civ",0
+"113383","MUSIC 193R","Topics in Music 1800-Present","Music",5
+"113390","CELTIC 305","Preparation of Doctoral Disser","Celtic Languages & Literatures",0
+"113402","GENETIC 309","Gene Expression in Yeast","Medical Sciences",0
+"113404","ECON 2610","Industrial Organization I","Economics",0
+"113443","ENGLISH 98R","Tutorial - Junior Year","English",21
+"113447","AFVS 151BR","Nonfiction Video Projects","Art, Film, and Visual Studies",9
+"113480","FOLKMYTH 99A","Tutorial - Senior Year","Folklore & Mythology",1
+"113492","CHNSE 142A","Advanced Conversational Chines","East Asian Langs & Civ",5
+"113501","GENED 1074","The Ancient Greek Hero","General Education",215
+"113543","MICROBI 320","Epigenetic Regulation of DNA","Medical Sciences",0
+"113559","GOV 1000","Quant Methods for Polit Sci I","Government",0
+"113575","ECON 3008","International Grad Student Wor","Economics",0
+"113576","TURKISH 120A","Intermediate Modern Turkish I","Near Eastern Languages & Civ",0
+"113582","ITAL 16","Reading Italian","Romance Languages & Lit",0
+"113583","SOCIOL 3301","Special Reading and Research","Sociology",0
+"113591","CLASSIC 350","Classics Proseminar","Classics, The",0
+"113625","ECON 3112","Seminar in Labor Economics","Economics",0
+"113627","MATH 55A","Studies in Algebra and Group","Mathematics",28
+"113637","ECON 1126","Quantitative Methods in Econ","Economics",55
+"113639","HIND-URD 101A","Introductory Hindi-Urdu","South Asian Studies",13
+"113667","BCMP 325","Genomic Instability & Cancer S","Medical Sciences",0
+"113685","TIBET 101A","Elementary Classical Tibetan","South Asian Studies",0
+"113694","GOV 3000A","Reading and Research","Government",0
+"113699","WELSH 128","Introduction to Modern Welsh","Celtic Languages & Literatures",1
+"113705","TIBET 104AR","Elementary Colloquial Tibetan","South Asian Studies",0
+"113716","ECON 2000","Research Paper","Economics",0
+"113738","LING 173","Structure of Japanese","Linguistics",6
+"113749","LING 98A","Group Tutorial - Junior Year","Linguistics",13
+"113752","GENETIC 201","Principles of Genetics","Medical Sciences",0
+"113770","NEUROBIO 367","Neocortical Development","Medical Sciences",0
+"113780","PSY 2580R","Doing Psychological Science","Psychology",8
+"113793","CHNSE 120A","Intermediate Modern Chinese","East Asian Langs & Civ",42
+"113797","ASTRON 1","The Big Questions of Astronomy","Astronomy",75
+"113798","ANE 122","Biblical Interpretation","Near Eastern Languages & Civ",1
+"113802","GERMAN 10A","Beginning German","Germanic Languages & Lit",20
+"113806","PORTUG 10S","Portuguese for Spanish Spkrs I","Romance Languages & Lit",8
+"113814","ITAL 10","Beginning Italian I","Romance Languages & Lit",20
+"113829","ECON 3116","EnvironEcon and Policy: Semina","Economics",0
+"113859","GENETIC 322","Vertebrate Pattern Formation","Medical Sciences",0
+"113870","SANSKRIT 310","Doctoral Dissertations","South Asian Studies",0
+"113873","CHNSE BA","Elementary Modern Chinese","East Asian Langs & Civ",72
+"113888","PHIL 99","Tutorial - Senior Year","Philosophy",15
+"113904","ECON 2142","Time Series Analysis","Economics",0
+"113916","PHYSICS 357A","Exp. Condensed Matter Physics","Physics",0
+"113925","RUSS AAB","Elementary Russian (Intensive)","Slavic Languages & Literatures",4
+"113927","E-PSCI 367","Global Geodynamics","Earth & Planetary Sciences",0
+"113928","SOCIOL 91R","Supervised Reading and Researc","Sociology",2
+"113931","MUSIC 262R","Composition: Seminar","Music",0
+"113934","PHIL 305","Individual Reading","Philosophy",0
+"113943","STAT 301","Special Reading and Research","Statistics",0
+"113944","COMPSCI 283","Computer Vision","Computer Science",7
+"113947","SLAVIC 300","Doctoral Dissertations","Slavic Languages & Literatures",0
+"113960","PSY 3020","Doctoral Dissertation","Psychology",0
+"113976","CHEM 99R","Tutorial - Senior Year","Chemistry & Chemical Biology",5
+"113986","PHYSICS 319A","Experimental High Energy Physi","Physics",0
+"113988","HLTHPOL 2000A","Core Course in Health Policy","Health Policy",0
+"113995","ECON 2530A","International Trade","Economics",0
+"114000","CLASSIC 300","Doctoral Dissertation","Classics, The",0
+"114009","PHYSICS 309A","Introduction to String Theory","Physics",0
+"114014","PHYSICS 309B","Elementary Particle Theory","Physics",0
+"114019","COMPLIT 396","Preparation for General","Comparative Literature",0
+"114027","STAT 104","Intro Quant Methods for Econ","Statistics",173
+"114034","ARABIC 130A","Upper-Level Classical Arabic I","Near Eastern Languages & Civ",0
+"114035","COMPSCI 299R","Special Topics in Computer Sci","Computer Science",1
+"114050","RSEA 300","Thesis Research and Writing","Regional Studies-East Asia",0
+"114058","YIDDISH AA","Elementary Yiddish I","Near Eastern Languages & Civ",4
+"114064","HIST 3000","Direction of Doctoral Disserta","History",0
+"114116","AFVS 150A","Film Directing: From Script to","Art, Film, and Visual Studies",4
+"114117","JAPAN 150A","Reads & Discus Jpn Soc Sci","East Asian Langs & Civ",3
+"114129","PHIL 220","The Rationalists: Seminar","Philosophy",0
+"114153","LING 112","Syntactic Theory I","Linguistics",2
+"114188","MUSIC 150","Musical Form and Analysis","Music",0
+"114200","SPANSH 30","Upper-level Spanish","Romance Languages & Lit",59
+"114201","RELIGION 3002","Teaching","Religion, The Study of",0
+"114218","MOD-HEB BA","Elementary Modern Hebrew I","Near Eastern Languages & Civ",5
+"114226","MCB 300A","Intro to Grad Research","Molecular & Cellular Biology",0
+"114256","ENGLISH 99R","Tutorial - Senior Year","English",43
+"114269","CELLBIO 321","Neuronal Pathfinding","Medical Sciences",0
+"114270","SANSKRIT 102AR","Intermediate Sanskrit I","South Asian Studies",1
+"114275","ENG-SCI 336","Mechanics of Engin Materials","Engineering Sciences",0
+"114279","CATALAN 10","Introduction to Catalan","Romance Languages & Lit",1
+"114283","CHNSE 300","Reading and Research","East Asian Langs & Civ",0
+"114291","ARABIC 245R","Classic Arabic Literature Sem","Near Eastern Languages & Civ",0
+"114292","JAPAN 130A","Intermediate Japanese II","East Asian Langs & Civ",9
+"114294","COMPLIT 99A","Tutorial - Senior Year","Comparative Literature",6
+"114301","ECON 2810A","Labor Market Analysis","Economics",1
+"114316","E-PSCI 334","Atmospheric Physics and Chem","Earth & Planetary Sciences",0
+"114320","AKKAD AA","Introductory Akkadian I","Near Eastern Languages & Civ",1
+"114351","AFVS 50A","Intro to Non Fiction Filmmakin","Art, Film, and Visual Studies",8
+"114362","PSY 2660R","Mindfulness Theory","Psychology",5
+"114383","KOREAN BX","Korean for Advanced Beginners","East Asian Langs & Civ",12
+"114453","E-PSCI 368","Seismology","Earth & Planetary Sciences",0
+"114496","ENG-SCI 390","Environmental Chemistry","Engineering Sciences",0
+"114621","MEDLATIN 205","Waltharius","Classics, The",0
+"114627","HAA 12Y","Ghengis Khan and Successors","History of Art & Architecture",14
+"114635","MICROBI 313","T-Lymphocyte Responses","Medical Sciences",0
+"114666","MUSIC 178R","Applied Music Activism","Music",15
+"114710","GOV 2148","Civil Society: West and East","Government",1
+"114726","BCMP 362","Eukaryotic Survival Decisions","Medical Sciences",0
+"114740","BCMP 230","Principles and Practice of Dru","Medical Sciences",7
+"114754","GOV 1060","Ancient & Medvl Pol Philosophy","Government",23
+"114763","BCMP 363","Normal cell division mechanism","Medical Sciences",0
+"114764","GENETIC 335","Genetics, epigenetics, gene","Medical Sciences",0
+"114804","CHNSLIT 227R","Early Chinese Hist Writings","East Asian Langs & Civ",0
+"114806","COMPSCI 223","Probabilistic Analysis & Algor","Computer Science",47
+"114807","COMPSCI 252R","Topics in Programming Lang","Computer Science",6
+"114808","ENG-SCI 222","Advanced Cellular Engineering","Engineering Sciences",0
+"114811","CHEM 60","Foundations of Physical Chem","Chemistry & Chemical Biology",6
+"114834","PHYSICS 337A","Topics: Exp High Energy Physic","Physics",0
+"114862","HIST 2055","Early Medieval History, Archae","History",0
+"114865","GENETIC 318","Genome Structure","Medical Sciences",0
+"114881","HIST 2400","Readings in Colonl & Revol Ame","History",0
+"114882","HIST 2442","Readings in the History","History",0
+"114925","SOCIOL 3302","Doctoral Dissertation","Sociology",0
+"114991","SOCIOL 3303","Adv Topics Quantitative Resear","Sociology",0
+"115000","CELLBIO 372","Cytoskeletal Dynamics","Medical Sciences",0
+"115026","ECON 2120","Priciples of Econometrics","Economics",1
+"115030","ECON 3011","Finance Grad Student Workshop","Economics",0
+"115032","FOLKMYTH 98A","Hist and Theory of Folklore","Folklore & Mythology",9
+"115077","STAT 221","Stat Computing & Learning","Statistics",4
+"115130","SOCIOL 97","Tutorial Sociological Theory","Sociology",22
+"115136","COMPSCI 358","Computational Complexity","Computer Science",0
+"115137","CHEM 17","Principles of Organic Chemistr","Chemistry & Chemical Biology",227
+"115238","GREEK 134","The Language of Homer","Classics, The",1
+"115341","PHYSICS 365A","Topics in Mathematical Physics","Physics",0
+"115348","BCMP 371","Maintenance of genome stabilit","Medical Sciences",0
+"115350","VIROLOGY 347","Reovirus Structure, Assembly","Medical Sciences",0
+"115356","GENETIC 370","Molecular Basis of Breast Canc","Medical Sciences",0
+"115358","MCB 396A","Regulation of Mitosis","Molecular & Cellular Biology",0
+"115390","AFVS 153AR","Intermediat:Making Animated Fi","Art, Film, and Visual Studies",6
+"115401","DESIGN 310","Doctoral Dissertations Urban P","Arch, Landscape & Urban Plan",0
+"115459","CHEM 336","Phys Chem and Materials Scienc","Chemistry & Chemical Biology",0
+"115462","NEUROBIO 376","Genetics of Neuronal Cell Bio","Medical Sciences",0
+"115467","PSY 3050","Clinical Practicum","Psychology",0
+"115470","SOC-STD 10A","Introduction to Social Studies","Social Studies",118
+"115473","HISTSCI 302","Guided Research","History of Science",0
+"115484","VIROLOGY 300R","Introduction to Research","Medical Sciences",0
+"115494","ECON 3017","Research in Health Economics","Economics",0
+"115495","PHYSICS 347A","Topics in Quantum Optics","Physics",0
+"115517","KOREAN 150A","Readings in Cultural Studies","East Asian Langs & Civ",4
+"115525","PHYSICS 347B","Topics in Quantum Optics","Physics",0
+"115526","PHYSICS 359A","Topics in Condensed Matter","Physics",0
+"115572","PSY 2170","Developmental Proseminar","Psychology",0
+"115575","PSY 3220","Developmental Studies: Seminar","Psychology",0
+"115578","PSY 2500","Proseminar in Social Psycholog","Psychology",0
+"115582","PSY 3340","Research Seminar Cognition","Psychology",0
+"115654","APMTH 99R","Thesis Research","Applied Mathematics",15
+"115671","BIOPHYS 371","Synapt Transmission, Plasticit","Biophysics",0
+"115694","ENG-SCI 326","Mixed-Signal VLSI Design","Engineering Sciences",0
+"115727","AFRAMER 301","Graduate Proseminar","African & African Amer Studies",0
+"115731","AFRAMER 310","Individual Reading Tutorial","African & African Amer Studies",0
+"115758","HIST-LIT 99","Tutorial - Senior Year","History & Literature",63
+"115767","BPH 215","Principles of Toxicology","Bio Sciences in Public Health",0
+"115778","PHIL 311","Workshop in M&P","Philosophy",0
+"115859","GOV 1005","Data","Government",69
+"115860","GOV 2009","Methods of Political Analysis","Government",0
+"115919","SPANSH 59","Spanish and the Community","Romance Languages & Lit",17
+"115920","SPANSH 50","Advanced Spanish II","Romance Languages & Lit",57
+"115924","NEUROBIO 321","Visual Perception","Medical Sciences",0
+"115968","CELLBIO 332","Mass Spectrometry and Protemic","Medical Sciences",0
+"115969","CELLBIO 360","Genetic Control of Apoptosis","Medical Sciences",0
+"115971","GENETIC 332","Combining genetic","Medical Sciences",0
+"115980","NEUROBIO 349","Olfactory and Vomeronasal","Medical Sciences",0
+"116029","NEUROBIO 386","Changes in Sensory Neurons","Medical Sciences",0
+"116041","ASTRON 99A","Senior Thesis in Astrophysics","Astronomy",8
+"116075","TIBET 102A","Intermediate Classical Tibetan","South Asian Studies",0
+"116077","TIBET 106AR","Advanced Colloquial Tibetan","South Asian Studies",0
+"116133","ECON 1640","Industrial Organization","Economics",32
+"116137","MATH 212A","Advanced Real Analysis","Mathematics",17
+"116187","APMTH 318","Special Topics in Physical Mat","Applied Mathematics",0
+"116189","APPHY 356","Special Topics Theoretical Eng","Applied Physics",0
+"116196","MATH 155R","Combinatorics","Mathematics",11
+"116219","SOCIOL 1141","Contemporary Chinese Society","Sociology",44
+"116230","CHEM 393","Physical Chemistry","Chemistry & Chemical Biology",0
+"116233","ITAL 40","Advanced Italian I","Romance Languages & Lit",3
+"116237","HIST 1036","Modern India and South Asia","History",8
+"116266","VIETNAM BA","Elementary Vietnamese","East Asian Langs & Civ",5
+"116288","SOC-STD 98EO","Art, Political Culture, Civic","Social Studies",7
+"116290","BPH 365","Virulence of Mycobacteria","Bio Sciences in Public Health",0
+"116301","COMPSCI 310","Computational Mechanism Design","Computer Science",0
+"116329","SOC-STD 98AX","Development and Modernization","Social Studies",4
+"116353","EXPOS 20","Expository Writing 20","Expository Writing",723
+"116407","PHIL 98","Tutorial II","Philosophy",11
+"116409","PHYSICS 350A","Exp Low Dimensional Materials","Physics",0
+"116413","VIROLOGY 200","Introduction to Virology","Medical Sciences",0
+"116414","UKRA AA","Elementary Ukrainian I","Slavic Languages & Literatures",1
+"116417","PSY 2640R","The Understand Seminar","Psychology",3
+"116428","PHYSICS 389A","Topics in Field Theory","Physics",0
+"116431","CLAS-HEB 120A","Intermediate Classical Hebrew","Near Eastern Languages & Civ",0
+"116447","CHEM 304","Theoretical Atomic, Molecular","Chemistry & Chemical Biology",0
+"116469","SPANSH 15","Intensive Beginning Spanish","Romance Languages & Lit",7
+"116477","BCMP 200","Molecular Biology","Medical Sciences",0
+"116494","HIND-URD 103AR","Advanced Hindi-Urdu","South Asian Studies",1
+"116504","CELTIC 300","Reading and Research","Celtic Languages & Literatures",0
+"116505","PHIL 300AA","Colloquium","Philosophy",0
+"116506","FRSEMR 44J","Clash of Titans, Seats of Empi","Freshman Seminars",12
+"116507","GENETIC 308","Molec Bio of Signal Transducti","Medical Sciences",0
+"116522","ANTHRO 3626","Research Design/Proposal Writi","Anthropology",0
+"116549","HISTSCI 301","Reading and Research","History of Science",0
+"116570","ESPP 99A","Tutorial - Senior Year","Envi Science & Public Policy",13
+"116593","APPHY 394","Exp Stud of Interfaces Surface","Applied Physics",0
+"116603","ANTHRO 3001","Reading for General Examinatio","Anthropology",0
+"116607","NEUROBIO 327","Rotations in Neurosciences","Medical Sciences",0
+"116618","MUSIC 230R","Topics in Music Theory","Music",0
+"116620","HAA 300","Reading and Research","History of Art & Architecture",0
+"116633","KOREAN 140A","Advanced Korean","East Asian Langs & Civ",6
+"116677","HIST 2692","Colonial, Post-Colon Hist S As","History",0
+"116729","CLS-STDY 97A","Intro to Ancient Greek World","Classics, The",23
+"116745","PHYSICS 387A","Applied Photonics","Physics",0
+"116746","ARABIC AA","Elementary Arabic I","Near Eastern Languages & Civ",37
+"116807","FRSEMR 33X","Complexity in Works of Art","Freshman Seminars",9
+"116840","APMTH 299R","Special Topics in Applied Math","Applied Mathematics",0
+"116853","HIST 99A","Senior Thesis Tutorial","History",27
+"116858","COMPSCI 344","Computer Architecture","Computer Science",0
+"116874","ENGLISH CLR","Introduction to Screenwriting","English",23
+"116875","ENGLISH CKR","Intro to Playwriting: Workshop","English",11
+"117064","WOMGEN 99B","Tutorial - Senior Year","Women, Gender & Sexuality",1
+"117068","LATIN 201","Reading Latin","Classics, The",0
+"117080","CHNSHIS 228","Introduction to Neo-Confuciani","East Asian Langs & Civ",1
+"117131","STAT 131","Time Series& Prediction","Statistics",39
+"117193","AFVS 91R","Special Projects","Art, Film, and Visual Studies",2
+"117196","AFVS 99A","Tutorial - Senior Year","Art, Film, and Visual Studies",17
+"117220","KOREAN 120A","Intermediate Korean","East Asian Langs & Civ",6
+"117269","GENETIC 316","Transcription Factors and DNA","Medical Sciences",0
+"117273","GENETIC 325","Human Genetics, Genomics","Medical Sciences",0
+"117279","NEUROBIO 390","Mechanisms of Synapse Regulati","Medical Sciences",0
+"117327","MODMDEST 200A","Approaches Middle East Studies","Near Eastern Languages & Civ",0
+"117342","MCB 111","Mathematics in Biology","Molecular & Cellular Biology",4
+"117343","MCB 366A","Synap Plasticty & Neuron Ntwks","Molecular & Cellular Biology",0
+"117375","PORTUG 321","Literature of Brazil","Romance Languages & Lit",0
+"117399","E-PSCI 187","Biogeochemistry","Earth & Planetary Sciences",6
+"117406","FRSEMR 34X","Language and Prehistory","Freshman Seminars",12
+"117413","COMPLIT 109","On Translation","Comparative Literature",13
+"117421","GREEK 108","Athenian Deliberative Oratory","Classics, The",2
+"117451","ECON 3006","Macro Grad Student Workshop","Economics",0
+"117461","TDM 111","Acting: 20th Century Texts","Theater, Dance & Media",10
+"117520","CHEM 315","Photochemistry and Kinetics","Chemistry & Chemical Biology",0
+"117524","SANSKRIT 201AR","Adv Philosophical Sanskrit","South Asian Studies",1
+"117540","ENGLISH 398","Doctoral Dissertation","English",0
+"117550","HAA 143M","Art of Court of Constantinople","History of Art & Architecture",3
+"117566","ECON 3009","IO Grad Student Workshop","Economics",0
+"117584","SOCIOL 1024","Social Inequality","Sociology",28
+"117620","ENG-SCI 332","Integrated Circuits and Electr","Engineering Sciences",0
+"117631","AFVS 73","Exploring Culture Through Film","Art, Film, and Visual Studies",12
+"117637","GENETIC 329","Genetic Anlysis Synapt Trnsmss","Medical Sciences",0
+"117638","ROM-LANG 300","Writing in Romance Literatures","Romance Languages & Lit",0
+"117647","MATH 99R","Tutorial","Mathematics",11
+"117649","VIROLOGY 202","Proposal Writing","Medical Sciences",0
+"117711","MCB 80","Neurobiology of Behavior","Molecular & Cellular Biology",94
+"117719","PHYSICS 145","Elementary Particle Physics","Physics",4
+"117740","GENETIC 359","Cancer and development,","Medical Sciences",0
+"117751","EABS 300","Reading and Research","East Asian Langs & Civ",0
+"117756","DESIGN 300","Reading and Research","Arch, Landscape & Urban Plan",0
+"117785","ENGLISH 304HF","Long Eighteenth Century","English",0
+"117818","ECON 1410","Public Economics","Economics",6
+"117820","PSY 2400","Cog Psych & Emotional Disorder","Psychology",0
+"117823","PHIL 129","Kant's First Critique","Philosophy",29
+"117839","COMPSCI 345","Datacenter networking","Computer Science",0
+"117853","GOV 20","Foundations Comparative Pol","Government",100
+"117855","MCB 374A","Developmental Neurobiology","Molecular & Cellular Biology",0
+"117862","APPHY 362","Photonics, Quantm Devices & Na","Applied Physics",0
+"117871","RELIGION 1520","Intro Hermeneutics & Theology","Religion, The Study of",1
+"117873","HEB 3310","Experimental Methods in HEB","Human Evolutionary Biology",0
+"117877","SOCIOL 2204","Classical Social Theory","Sociology",0
+"117880","PSY 1652R","Lab in Early Cognitive Develop","Psychology",4
+"117886","VIROLOGY 305","Entry & Rep Nega Strand RNA Vi","Medical Sciences",0
+"117893","E-PSCI 339","Biogeochemistry","Earth & Planetary Sciences",0
+"117895","BSDM 300","Research with Faculty","Bio Sciences in Dental Med",0
+"117932","HIST 1465","The United States and World","History",75
+"117944","ENGLISH 310HFR","20th C. & Contemporary Lit.","English",0
+"117946","SOCIOL 99A","Senior Tutorial","Sociology",20
+"118017","AMSTDIES 201","Themes in American Studies","American Studies",0
+"118021","APMTH 115","Mathematical Modeling","Applied Mathematics",7
+"118023","AFRAMER 98","Junior Tutorial - African Am","African & African Amer Studies",2
+"118030","ENG-SCI 354","Cellular Biophysics","Engineering Sciences",0
+"118046","BIOPHYS 344","Dir Evol of Simple Cellular Sy","Biophysics",0
+"118052","PSY 3270","Language Acquisition: Res. Sem","Psychology",0
+"118075","MUSIC 201A","Current Mthds in Hist Musicolo","Music",0
+"118106","E-PSCI 344","Stable Isotope Geochemistry","Earth & Planetary Sciences",0
+"118111","SLAVIC 168","20th-Century Ukrainian Lit","Slavic Languages & Literatures",1
+"118124","CHEM 300","Research and Reading","Chemistry & Chemical Biology",0
+"118135","MEDVLSTD 107","Authority and Invention","Medieval Studies",0
+"118139","ASTRON 202A","Extragalactic/Cosmology I","Astronomy",2
+"118193","GENETIC 310","Molecular Genetics of Neural D","Medical Sciences",0
+"118254","PSY 1900","Statistics for the Behavioral","Psychology",141
+"118262","EXPOS 10","Intro to Expository Writing","Expository Writing",158
+"118284","TURKISH 140A","Intro to Ottoman Turkish I","Near Eastern Languages & Civ",0
+"118290","GENED 1019","The Caribbean","General Education",71
+"118302","MATH 116","Real Analysis, Convexity, and","Mathematics",20
+"118414","GOV 2000","Intro to Quant Methods I","Government",2
+"118418","COMPSCI 143","Computer Networks","Computer Science",41
+"118459","PHYSICS 253CR","Quantum Field Theory III","Physics",3
+"118497","TDM 119","Vocal Production for the Stage","Theater, Dance & Media",17
+"118509","PHYSICS 285B","Modern Atomic & Optical Physic","Physics",4
+"118517","GENED 1018","How to Build Habitable Planet","General Education",31
+"118557","RELIGION 2001","The Hist of the Study of Relig","Religion, The Study of",0
+"118565","RELIGION 3505A","Colloquium in Amer Relig Hist","Religion, The Study of",0
+"118594","MUSIC 2","Foundations of Tonal Music I","Music",39
+"118606","PSY 2445","Psychological Treatment Resear","Psychology",0
+"118649","APPHY 388","Climate Dynamics & Phys Oceano","Applied Physics",0
+"118665","NEP 101A","Introductory Nepali","South Asian Studies",1
+"118677","E-PSCI 345","Solid Earth Geochemistry","Earth & Planetary Sciences",0
+"118701","MATH 388","Topics in Mathematics & Biolog","Mathematics",0
+"118724","PHYSICS 283B","Spacetime QuantMech","Physics",5
+"118745","RELIGION 99A","Tutorial - Senior Year","Religion, The Study of",2
+"118751","GENETIC 321","Genetic Analy of Grwth & Homeo","Medical Sciences",0
+"118757","PHIL 312","Workshop in M&E","Philosophy",0
+"118787","ENG-SCI 334","Mech & Materials Small Structu","Engineering Sciences",0
+"118790","PSY 2010","Contemporary Psychological Res","Psychology",0
+"118814","PHYSICS 327B","Condensed Matter Physics","Physics",0
+"118839","NEUROBIO 323","Synaptic Plasticity","Medical Sciences",0
+"118840","NEUROBIO 317","Development and organization","Medical Sciences",0
+"118844","VIROLOGY 333","Antiretroviral Drug Resistance","Medical Sciences",0
+"118849","ANE 120A","Hebrew Bible/Old Testament 1","Near Eastern Languages & Civ",4
+"118883","AFRAMER 20","African Languages & Cultures","African & African Amer Studies",3
+"118884","PHYSICS 303A","Sensory and Behavioral Neurosc","Physics",0
+"118897","HAA 399","Doctoral Dissertation","History of Art & Architecture",0
+"118925","CHEM 30","Organic Chemistry","Chemistry & Chemical Biology",37
+"118927","ENGLISH 397","Directed Study","English",0
+"118939","ENG-SCI 139","Innovation in Science and Engr","Engineering Sciences",219
+"118942","ENG-SCI 239","Innovation Science & Engineeri","Engineering Sciences",1
+"118948","PSY 3200","Rsch Sem in Clinical Science","Psychology",0
+"118950","PHYSICS 341B","Exp Atomic and Cond Matter Phy","Physics",0
+"118975","APMTH 320","Topics in Macroscopic Physics","Applied Mathematics",0
+"118977","HISTSCI 99A","Tutorial - Senior Year","History of Science",19
+"118983","NEC 99A","Tutorial - Senior Year","Near Eastern Languages & Civ",3
+"119002","STAT 91R","Supervised Reading & Research","Statistics",6
+"119022","TIBET 300","Reading and Research","South Asian Studies",0
+"119048","ENG-SCI 173","Intro Electronic & Photonic Dv","Engineering Sciences",27
+"119051","PHYSICS 343A","Observatnl Cosmol & Exp Gravit","Physics",0
+"119057","ENG-SCI 250","Information Theory","Engineering Sciences",4
+"119061","LIFESCI 100","Exper Research in Life Sci","Molecular & Cellular Biology",9
+"119062","E-PSCI 287","Biogeochemistry","Earth & Planetary Sciences",0
+"119064","COMPSCI 121","Intro to Theory of Computation","Computer Science",183
+"119067","BE 121","Cellular Engineering","Biomedical Engineering",7
+"119076","PHYSICS 391B","Atomic Physics, Biophysics","Physics",0
+"119079","ANTHRO 3400","Reading and Research","Anthropology",0
+"119121","FRENCH 70B","French Lit II: 19th-21st Cent.","Romance Languages & Lit",7
+"119124","PSY 2461R","Lab Clinical & Develop Researc","Psychology",5
+"119132","LING 300","Direction of Doctoral Disserta","Linguistics",0
+"119150","FRSEMR 37P","Reading Tolstoy's War and Peac","Freshman Seminars",10
+"119196","MATH 21A","Multivariable Calculus","Mathematics",266
+"119201","WOMGEN 99A","Tutorial - Senior Year","Women, Gender & Sexuality",4
+"119227","BIOPHYS 396","Behavior Neurosci and Neurophy","Biophysics",0
+"119230","CHEM 396","Organic Chemistry","Chemistry & Chemical Biology",0
+"119237","PSY 3260","Conceptual Development","Psychology",0
+"119243","PSY 1655R","Conceptual Development","Psychology",3
+"119249","COMPSCI 165","Data Systems","Computer Science",21
+"119252","COMPSCI 308","Bio-Inspired Multi-Agent Syste","Computer Science",0
+"119262","ENG-SCI 352","Engineering Mammalian Cell","Engineering Sciences",0
+"119379","ANTHRO 1610","Ethnographic Research Methods","Anthropology",35
+"119479","GOV 1010","Survey Research Methods","Government",114
+"119495","CELLBIO 329","The Ubiquitin-Proteasome Pathw","Medical Sciences",0
+"119502","MATH 153","Math Bio-Evolutionary Dynamics","Mathematics",47
+"119522","MUSIC 151","Tonal Analysis","Music",2
+"119532","PSY 3555","Instructional Styles in Psych","Psychology",0
+"119533","HIST 1300","Western Intellectual History","History",11
+"119551","CELLBIO 336","Sgnl Trnsdction in Normal & Tr","Medical Sciences",0
+"119562","ECON 3007","Public Econ Grad Student Works","Economics",0
+"119569","FRSEMR 37Y","Muslim Voices in Contemporary","Freshman Seminars",11
+"119613","MICROBI 330","Bacterial Chromosome Dynamics","Medical Sciences",0
+"119619","FRSEMR 24N","Child Health in America","Freshman Seminars",14
+"119622","FRSEMR 48K","Polit Legitimacy & Resistance","Freshman Seminars",11
+"119630","MOD-HEB 130A","Advanced Modern Hebrew I","Near Eastern Languages & Civ",7
+"119636","AFVS 196R","Directed Rsch: Studio Course","Art, Film, and Visual Studies",7
+"119678","HLTHPOL 3080A","MPR Reading Course","Health Policy",0
+"119717","PSY 980T","Eating Disorders","Psychology",14
+"119757","CHNSE 150A","Reads & Disc in Acad Prof Chin","East Asian Langs & Civ",3
+"119763","PHYSICS 317A","Topics in Biophysics","Physics",0
+"119765","PHYSICS 381A","Exp Condensed Matter Physics","Physics",0
+"119766","PHYSICS 381B","Exp Condensed Matter Physics","Physics",0
+"119811","MUSIC 160R","Composition: Proseminar","Music",3
+"119819","SWAHILI AA","Elementary Swahili","African & African Amer Studies",11
+"119820","SWAHILI 101AR","Reading in Swahili","African & African Amer Studies",5
+"119840","BCMP 328","Comput Analysis of Sequence Va","Medical Sciences",0
+"119844","BIOSTAT 230","Probability I","Biostatistics",0
+"119846","BIOSTAT 232","Methods I","Biostatistics",0
+"119848","BIOSTAT 235","Adv Regression and Statistical","Biostatistics",0
+"119854","BIOSTAT 240","Probability II","Biostatistics",0
+"119866","BIOSTAT 350","Research","Biostatistics",0
+"119874","YIDDISH BA","Intermediate Yiddish I","Near Eastern Languages & Civ",1
+"119940","STAT 230","Multivariate Statistical Anlys","Statistics",1
+"119983","ANTHRO 2704","Ling Pragmatics & Cult Analysi","Anthropology",1
+"119985","SOCIOL 2202","Intermed Quantitative Research","Sociology",2
+"120000","STAT 310HFRA","Topics in Astrostatistics","Statistics",0
+"120007","GENETIC 374","Mechanisms underlying accurate","Medical Sciences",0
+"120008","GENETIC 376","Cell Cycle Control and Genomic","Medical Sciences",0
+"120013","MICROBI 329","The Regulation of Gene","Medical Sciences",0
+"120043","AKKAD 141R","Akkadian Myths and Epics","Near Eastern Languages & Civ",0
+"120066","MED-SCI 250AB","Human Functional Anatomy","Medical Sciences",0
+"120084","SOCIOL 3304","Cult and Social Analysis","Sociology",0
+"120087","ENG-SCI 314","Image Proc and Computer Vision","Engineering Sciences",0
+"120091","COMPSCI 348","Computer Vision","Computer Science",0
+"120117","ENG-SCI 324","Materials Processing","Engineering Sciences",0
+"120134","PHYSICS 391A","Atomic Physics, Biophysics","Physics",0
+"120174","BCMP 345","Transcription Factors","Medical Sciences",0
+"120183","MICROBI 310","Bact Genetics of TB & Tularemi","Medical Sciences",0
+"120184","MICROBI 343","Chemical Biology","Medical Sciences",0
+"120228","MATH 121","Linear Algebra and Application","Mathematics",16
+"120238","COMPSCI 289","Bio-inspired Multi-agent Syste","Computer Science",5
+"120245","ECON 3001","Grad Workshop Behavioral","Economics",0
+"120257","BPH 372","Molecular Mechanisms Underlyin","Bio Sciences in Public Health",0
+"120282","IRISH 160R","Advanced Modern Irish","Celtic Languages & Literatures",2
+"120305","CHNSE BX","Elem Chinese for Adv Beginners","East Asian Langs & Civ",32
+"120356","E-PSCI 341","Isotope Geochemistry","Earth & Planetary Sciences",0
+"120379","E-PSCI 99A","Tutorial - Senior Year","Earth & Planetary Sciences",5
+"120380","RUSS 120R","Readings in Advanced Russian","Slavic Languages & Literatures",0
+"120398","PORTUG 10","Beginning Portuguese I","Romance Languages & Lit",2
+"120489","ANTHRO 2070","Archaeological Method & Theory","Anthropology",1
+"120540","GENETIC 336","Dev Bio of Hematopoiesis","Medical Sciences",0
+"120559","PSY 2553R","Behavioral Insights Group","Psychology",16
+"120570","ANTHRO 1645","Exploring Culture Through Film","Anthropology",3
+"120627","BCMP 375","Biomolecular Nanotechnology","Medical Sciences",0
+"120668","ECON 2110","Econometrics I","Economics",0
+"120670","GENED 1058","Tech Ethics","General Education",606
+"120711","ECON 1011A","Intermediate Microeconomics: A","Economics",85
+"120717","RUSS 101","Advanced Russian I","Slavic Languages & Literatures",13
+"120754","GENETIC 314","The Origin of Cellular Life","Medical Sciences",0
+"120783","E-PSCI 236","Environmental Modeling","Earth & Planetary Sciences",0
+"120829","SYSBIO 300HFA","Intro to Systems Biology Rsch","Systems Biology",0
+"120837","ECON 3016","Environmental Grad Student Wor","Economics",0
+"120846","NEUROBIO 310","Neural Coding Chemosens Stimul","Medical Sciences",0
+"120868","PHYSICS 339B","Condensed Matter & Atomic Phys","Physics",0
+"120869","PHYSICS 339A","Condensed Matter & Atomic Phys","Physics",0
+"120872","PHYSICS 351A","Exp Soft Cond Matter & Materia","Physics",0
+"120873","PHYSICS 351B","Exp Soft Cond Matter & Materia","Physics",0
+"120887","APPHY 392","Exp Soft Cond Matter & Materia","Applied Physics",0
+"120918","MCB 322A","Genetics and Development","Molecular & Cellular Biology",0
+"120934","GIKUYU AA","Elementary Gikuyu","African & African Amer Studies",1
+"120944","TWI AA","Elementary Twi","African & African Amer Studies",6
+"120947","TWI BA","Intermediate Twi","African & African Amer Studies",2
+"120948","TWI 101AR","Reading in Twi","African & African Amer Studies",3
+"120952","YORUBA AA","Elementary Yoruba","African & African Amer Studies",8
+"120953","YORUBA BA","Intermediate Yoruba","African & African Amer Studies",1
+"120954","YORUBA 101AR","Reading in Yoruba","African & African Amer Studies",4
+"120955","YORUBA 101BR","Reading in Yoruba II","African & African Amer Studies",0
+"121008","NEUROBIO 312","Study of Synaptic Competition","Medical Sciences",0
+"121013","SOCIOL 3308","Workshop on Economic Sociology","Sociology",0
+"121036","SCAND 91R","Supervised Reading & Research","Germanic Languages & Lit",10
+"121045","KORHIST 253","Topics in Modern Korean Histor","East Asian Langs & Civ",0
+"121057","GENETIC 311","Transcription Regulation: Mamm","Medical Sciences",0
+"121089","LING 102","Sentence Structure","Linguistics",3
+"121110","ITAL 116","Renaissance Revolutions","Romance Languages & Lit",5
+"121121","GENETIC 306","Inherited Human Disorders","Medical Sciences",0
+"121156","E-PSCI 342","Atmospheric & Climate Dynamics","Earth & Planetary Sciences",0
+"121170","CHEMBIO 399","Laboratory Research","Chemical Biology",0
+"121189","LIFESCI 1A","Intro to Life Sciences I","Molecular & Cellular Biology",323
+"121197","VIROLOGY 301","Herpes Virus Interact with Hos","Medical Sciences",0
+"121209","HAA 291R","Pre-Columbian & Colonial Art","History of Art & Architecture",0
+"121278","BPH 374","Nuclear Lipid Receptors","Bio Sciences in Public Health",0
+"121279","BPH 375","Signaling Pathways Underlying","Bio Sciences in Public Health",0
+"121296","RELIGION 1061","Introduction to the Upanisads","Religion, The Study of",2
+"121311","STAT 303HFA","Art & Practice of Teaching Sta","Statistics",0
+"121318","BIOPHYS 170","Evolut & Quantitative Genomics","Biophysics",0
+"121331","ECON 2059","Decision Theory","Economics",0
+"121332","PHYSICS 315A","Theoretical At. Molec., CM Phy","Physics",0
+"121346","ARABIC 131A","Upper-Level Modern Arabic l","Near Eastern Languages & Civ",20
+"121405","ENG-SCI 320","Microrobotics & Robotic System","Engineering Sciences",0
+"121412","SWEDISH 10A","Beginning Swedish Lang and Lit","Germanic Languages & Lit",11
+"121452","SYSBIO 399","Systems Biology: Rotations","Systems Biology",0
+"121466","ENG-SCI 346","Neural Control of Movement","Engineering Sciences",0
+"121469","CZCH BA","Intermediate Czech I","Slavic Languages & Literatures",1
+"121497","THI 103AR","Readings in Thai I","South Asian Studies",1
+"121507","SYSBIO 350","Systems Biology Research","Systems Biology",0
+"121510","SOC-STD 99A","Tutorial - Senior Year","Social Studies",70
+"121518","BIOPHYS 300","Intro to Laboratory Research","Biophysics",0
+"121542","AFVS 51A","Introduction to Video","Art, Film, and Visual Studies",10
+"121549","FRSEMR 26J","Universe's Hidden Dimensions","Freshman Seminars",13
+"121563","CELLBIO 310","Mechanisms of Vertebrate","Medical Sciences",0
+"121621","HIST 83A","Markets and States","History",15
+"121692","APMTH 91R","Supervised Reading and Researc","Applied Mathematics",9
+"121696","PSY 3420","Research Workshop: Social Psyc","Psychology",0
+"121718","GOV 3008A","Research Wrkshp in Pol Theory","Government",0
+"121728","GOV 1368","The Politics of Am Education","Government",22
+"121738","PSY 1950","Intermed Statistical Analysis","Psychology",2
+"121758","AFVS 15AR","Silkscreen","Art, Film, and Visual Studies",12
+"121800","NEUROBIO 336","Developmental Cognitive Neuro","Medical Sciences",0
+"121804","NEUROBIO 306","Neuro-vascular interactions","Medical Sciences",0
+"121901","FRSEMR 31J","Skepticism and Knowledge","Freshman Seminars",5
+"121903","FRSEMR 31N","Beauty and Christianity","Freshman Seminars",10
+"121934","PORTUG 20","Intermediate Portuguese","Romance Languages & Lit",8
+"121942","RELIGION 1541","Kant and Kierkegaard","Religion, The Study of",6
+"121985","COMPSCI 279R","Research Topics Human-Computer","Computer Science",14
+"121989","APMTH 108","Nonlinear Dynamical Systems","Applied Mathematics",26
+"121993","PHYSICS 191","Advanced Laboratory","Physics",8
+"122029","GERMAN 20AB","Intermediate German: Intensive","Germanic Languages & Lit",2
+"122031","GERMAN 61","Advanced Grammar and Reading","Germanic Languages & Lit",9
+"122039","SCAND 191R","Supervised Reading & Research","Germanic Languages & Lit",1
+"122079","AFVS 270","Proseminar, Film & Visual Stdy","Art, Film, and Visual Studies",1
+"122094","APMTH 104","Series Expansions and Comp Ana","Applied Mathematics",60
+"122105","ECON 3118","Seminar Science and Engineerin","Economics",1
+"122177","LATIN AX","Latin Review and Reading","Classics, The",6
+"122184","AFVS 41A","Intro to Still Photography","Art, Film, and Visual Studies",10
+"122224","PSY 1201","Psychopharmacology","Psychology",77
+"122332","SOCIOL 3309","Migration & Immigrant Incorptn","Sociology",0
+"122333","E-PSCI 100","Intro MATLAB & Data Analysis","Earth & Planetary Sciences",2
+"122339","ENG-SCI 53","Quant Physiol Basis for Bioeng","Engineering Sciences",45
+"122347","ENG-SCI 380","Biologically Inspired Design","Engineering Sciences",0
+"122422","MCB 294","Int Questions Physical Biology","Molecular & Cellular Biology",1
+"122423","MCB 315A","Sign & Transprt, Bio Membranes","Molecular & Cellular Biology",0
+"122424","MCB 316A","Structural Bio of Retroviral","Molecular & Cellular Biology",0
+"122439","ANTHRO 2690","Middle East Ethnography","Anthropology",3
+"122458","FRSEMR 25N","Finding Connections: Perspecti","Freshman Seminars",13
+"122492","ECON 1460","Economics of Health Care Polic","Economics",6
+"122514","LING 83","Language, Structure, Cognition","Linguistics",90
+"122515","LING 116","Semantic Theory I","Linguistics",1
+"122529","MCB 91","Research Molecular & Cell Biol","Molecular & Cellular Biology",11
+"122530","MCB 99A","Lab Research for Honors Thesis","Molecular & Cellular Biology",21
+"122549","E-PSCI 208","Physics of Climate","Earth & Planetary Sciences",1
+"122556","FRENCH 330","Doctoral Dissertations","Romance Languages & Lit",0
+"122575","PHYSCI 2","Physical Sciences 2","Physics",232
+"122591","CPB 91","Research Chemical & Phys Biol","Chemical & Physical Biology",6
+"122592","CPB 99A","Lab Research for Honors Thesis","Chemical & Physical Biology",13
+"122594","HEB 91R","Supervised Reading & Research","Human Evolutionary Biology",8
+"122595","HEB 99A","Tutorial - Senior Year","Human Evolutionary Biology",10
+"122596","BCMP 218","Molecular Medicine","Medical Sciences",1
+"122603","MATH 122","Algebra I","Mathematics",58
+"122605","PSY 3010","Special Reading and Research","Psychology",0
+"122655","ECON 1018","Cultural Economics","Economics",9
+"122674","HAA 310A","Methods and Theory of Art Hist","History of Art & Architecture",0
+"122692","CLAS-HEB 130AR","Rapid Reading Class Hebrew I","Near Eastern Languages & Civ",1
+"122695","CHEM 386","Theoretical Chemistry","Chemistry & Chemical Biology",0
+"122718","HISTSCI 285","Science, Power and Politics","History of Science",1
+"122728","ASTRON 300","Topics in Modern Astrophysics","Astronomy",0
+"122742","BCMP 358","Targeting Apoptosis Regulation","Medical Sciences",0
+"122746","BCMP 349","Targeting Deregulated Apoptoti","Medical Sciences",0
+"122747","MICROBI 346","Mech and Treatment of Diarrhea","Medical Sciences",0
+"122752","ECON 970","Tutorial - Sophomore Year","Economics",50
+"122762","PHYSICS 305A","Experimental High Energy Physi","Physics",0
+"122818","PHYSICS 268AR","Special Topics Quantum Matter","Physics",2
+"122822","RELIGION 3001","Reading and Research","Religion, The Study of",0
+"122839","PHYSICS 313A","Exp Condensed Matter Physics","Physics",0
+"122840","PHYSICS 313B","Exp Condensed Matter Physics","Physics",0
+"122841","AFVS 301","Film and Visual Studies Worksh","Art, Film, and Visual Studies",0
+"122846","NEURO 91","Laboratory Research","Neuroscience",50
+"122850","GOV 1008","Geographic Info Systems","Government",8
+"122871","PSY 2352R","Lab for Social Cognitive Neuro","Psychology",1
+"122881","APPHY 342","Nano-Lasers, Single-Photon Sou","Applied Physics",0
+"122885","CHNSHIS 230R","Topics in Ming History","East Asian Langs & Civ",0
+"122907","RUSS AA","Elementary Russian I","Slavic Languages & Literatures",13
+"122916","RELIGION 2002","Contemporary Conversations","Religion, The Study of",0
+"122928","RELIGION 91R","Supervised Reading & Research","Religion, The Study of",1
+"122930","PHYSICS 253A","Quantum Field Theory","Physics",10
+"122931","BCMP 335","Biochemical & Genetic Analysis","Medical Sciences",0
+"122943","MATH 101","Sets, Groups and Topology","Mathematics",26
+"122956","PHIL 299HFA","Individual Supervision","Philosophy",0
+"122989","PHIL 97","Tutorial I","Philosophy",14
+"123003","ECON 1420","American Economic Policy","Economics",83
+"123021","KOREAN 300","Reading and Research","East Asian Langs & Civ",0
+"123022","CHEM 100R","Exp Chem and Chemical Bio","Chemistry & Chemical Biology",13
+"123023","CLAS-HEB AA","Elementary Classical Hebrew I","Near Eastern Languages & Civ",5
+"123033","ECON 1123","Introduction to Econometrics","Economics",127
+"123042","PSY 2446R","Clinical Research Laboratory","Psychology",3
+"123045","SANSKRIT 101A","Elementary Sanskrit","South Asian Studies",7
+"123051","PERSIAN AA","Elementary Persian I","Near Eastern Languages & Civ",2
+"123059","BPH 376","Secretion & Path M. tuberculos","Bio Sciences in Public Health",0
+"123076","PLSH AA","Elementary Polish I","Slavic Languages & Literatures",4
+"123080","TDM 130R","Directing","Theater, Dance & Media",9
+"123104","GENETIC 357","Lung Stem Cell Bio and Cancer","Medical Sciences",0
+"123105","ECON 3004","Economic History Grad Workshop","Economics",0
+"123124","HIST 1028","Race, Capitalism","History",39
+"123131","SLAVIC 222","20th-Century Ukrainian Poetry","Slavic Languages & Literatures",1
+"123143","NEUROBIO 399","Neurocircuits","Medical Sciences",0
+"123148","NEUROBIO 378","Neuronal Mech & Animal Behavio","Medical Sciences",0
+"123149","VIROLOGY 348","Immunopathogenesis of HIV-1","Medical Sciences",0
+"123163","SLAVIC 99A","Tutorial - Senior Year","Slavic Languages & Literatures",3
+"123169","MICROBI 339","Bacterial Cell Division","Medical Sciences",0
+"123215","E-PSCI 343","Analysis of Climate Record","Earth & Planetary Sciences",0
+"123216","NEUROBIO 318","Cerebral Cortical Development","Medical Sciences",0
+"123222","HIST 84H","Northern Side of Civil Rights","History",11
+"123227","MATH 114","Analysis of Function Spaces, M","Mathematics",33
+"123232","MATH 221","Algebra","Mathematics",15
+"123239","MATH 223A","Algebraic Number Theory","Mathematics",5
+"123243","MATH 231A","Algebraic Topology","Mathematics",12
+"123244","PSY 1651R","Language Development","Psychology",1
+"123266","IRISH 200","Introduction to Old Irish","Celtic Languages & Literatures",2
+"123305","PSY 1750","Free Will, Responsibility, & L","Psychology",14
+"123308","PSY 2554R","Laboratory on Complex Thought","Psychology",0
+"123316","CHEM 350","Theoretical Physical Chemistry","Chemistry & Chemical Biology",0
+"123319","PSY 2354R","Adv Lab Cognitive Neuroscience","Psychology",0
+"123342","GENETIC 358","Develop Neurobiology & Genetic","Medical Sciences",0
+"123351","ENG-SCI 273","Optics and Photonics","Engineering Sciences",1
+"123375","GOV 2710","Intl Relations: Field Seminar","Government",0
+"123380","AFVS 80","Loitering: Studio Course","Art, Film, and Visual Studies",10
+"123398","HISTSCI 100","Intro to History of Science","History of Science",59
+"123432","YIDDISH CA","Advanced Yiddish I","Near Eastern Languages & Civ",0
+"123435","AFRAMER 197","Poverty, Race, and Health","African & African Amer Studies",165
+"123438","AFRAMER 187","African Religions","African & African Amer Studies",3
+"123439","LING 115","Phonological Theory I","Linguistics",2
+"123440","LING 123","Intermediate Indo-European","Linguistics",2
+"123441","MATH 232A","Intro to Algebraic Geometry I","Mathematics",1
+"123451","ANTHRO 91XR","Supervised Reading & Research","Anthropology",1
+"123453","ANTHRO 91ZR","Supervised Reading & Research","Anthropology",8
+"123459","AKKAD 153","Old Akkadian","Near Eastern Languages & Civ",0
+"123509","PHIL 168","Kant's Ethical Theory","Philosophy",22
+"123564","ENGLISH 90CL","Comic Imagination","English",11
+"123574","ENGLISH 90QP","20th-Century American Poetry","English",15
+"123591","AFRAMER 11","Introduction to African Studie","African & African Amer Studies",4
+"123597","GOV 2752","Strategic Models in IR","Government",0
+"123623","COMPSCI 61","Systms Programming & Mach Org","Computer Science",136
+"123658","FRSEMR 22I","The Science of Sailing","Freshman Seminars",11
+"123660","FRSEMR 40I","The Supreme Court in U.S. Hist","Freshman Seminars",15
+"123662","APMTH 121","Optimization: Models and Metho","Applied Mathematics",54
+"123674","LIFESCI 2","Evol Human Phys & Anatomy","Organismic & Evolutionary Biol",163
+"123680","MATH 1A","Introduction to Calculus","Mathematics",169
+"123710","LING 250","Old Church Slavonic","Linguistics",0
+"123767","FRSEMR 31M","In Pursuit of the Ordinary: G","Freshman Seminars",4
+"123790","HIND-URD 123","Bollywood and Beyond","South Asian Studies",13
+"123797","CZCH CR","Advanced Czech","Slavic Languages & Literatures",1
+"123833","LPS A","Foundational Chem and Biology","Chemistry & Chemical Biology",137
+"123834","GENED 1139","Politics, the Greatest Art","General Education",6
+"123849","ECON 2040","Experimental Economics","Economics",2
+"123858","ESPP 90N","Future Energy Economies","Envi Science & Public Policy",21
+"123883","MATH 60R","Reading Course, Snr Honors Can","Mathematics",8
+"123920","STAT 399","Teaching","Statistics",0
+"123926","PSY 3550","Teaching Psychology","Psychology",0
+"123927","CHEM 325","Physical Chemistry","Chemistry & Chemical Biology",0
+"123941","PSY 1","Intro. to Psychol. Science","Psychology",248
+"123949","APPHY 304","Materials Science of Biologica","Applied Physics",0
+"123973","PSY 18","Abnormal Psychology","Psychology",168
+"123991","GOV 3004A","Research Wrkshp in US Politics","Government",0
+"123994","CHEM 330","Physical Chemistry","Chemistry & Chemical Biology",1
+"123995","CHEM 340","Inorganic Chemistry","Chemistry & Chemical Biology",0
+"124013","HIST 2653","Historiography of Modern Japan","History",0
+"124031","THI 102A","Intermediate Thai I","South Asian Studies",2
+"124044","MUSIC 221R","Current Issues in Music Theory","Music",1
+"124075","LING 301","Reading or Special Topics Cour","Linguistics",0
+"124093","GERMAN 10AB","Beginning German (Intensive)","Germanic Languages & Lit",4
+"124108","PHYSICS 123","Laboratory Electronics","Physics",1
+"124127","GENED 1093","Reimagining Global Health","General Education",137
+"124132","AFRAMER 99A","Senior Thesis Workshop","African & African Amer Studies",2
+"124134","ECON 2010A","Economic Theory","Economics",1
+"124143","E-PSCI 363","Earth & Environmental Process","Earth & Planetary Sciences",0
+"124154","PHYSICS 15C","Wave Phenomena","Physics",32
+"124155","COMPSCI 314","Visual Computing","Computer Science",0
+"124202","GENETIC 344","Computational Genomics","Medical Sciences",0
+"124203","MICROBI 326","Bio and virulence of enteric","Medical Sciences",0
+"124233","MCB 328A","Neuronal Circuit Development","Molecular & Cellular Biology",0
+"124235","CHNSE 130XA","Pre-Adv Mod Chin for High-Prof","East Asian Langs & Civ",30
+"124241","PSY 3240","Research Sem in Cognitive Dev","Psychology",0
+"124270","HBTM 307","Mechanisms of Heart Growth","Medical Sciences",0
+"124285","MANCHU 300","Reading and Research","East Asian Langs & Civ",0
+"124296","KOREAN BA","Elementary Korean","East Asian Langs & Civ",37
+"124315","CELLBIO 349","Chrom. Struc & Gene Silencing","Medical Sciences",0
+"124316","AFVS 320","Directed Study","Art, Film, and Visual Studies",0
+"124317","AFVS 310","Reading and Research","Art, Film, and Visual Studies",0
+"124332","FRENCH 15","Intensive Beginning French","Romance Languages & Lit",6
+"124362","CHEMBIO 350","Graduate Research","Chemical Biology",0
+"124363","AMSTDIES 399","Doctoral Dissertatn Direction","American Studies",0
+"124364","COMPSCI 171","Visualization","Computer Science",64
+"124404","HIST 1700","History of Sub-Saharan Africa","History",11
+"124426","GOV 2176","Varieties of Capitalism","Government",0
+"124482","SLAVIC 286","Poetry after Brodsky","Slavic Languages & Literatures",1
+"124506","HIST 1270","Frontiers of Europe","History",3
+"124524","PORTUG 40","Advanced Portuguese I","Romance Languages & Lit",4
+"124550","E-PSCI 333","Environmental Chemistry","Earth & Planetary Sciences",0
+"124554","CHEM 101","Chem Bio Towards Precision Med","Chemistry & Chemical Biology",21
+"124688","E-PSCI 202","Mechan in Earth & Env Science","Earth & Planetary Sciences",0
+"124707","RELIGION 1060","Hindu Goddesses & Virgin Mary","Religion, The Study of",1
+"124777","FRSEMR 41P","Am Presidential Campaigns","Freshman Seminars",16
+"124781","BIOPHYS 313","Neurobiology of Vocal Learning","Biophysics",0
+"124817","MCB 129","Brain Dev, Plasticity, Declin","Molecular & Cellular Biology",9
+"124821","MATH 300","Teaching Undergraduate Math","Mathematics",0
+"124836","GOV 2034","Ethics, Economics, and Law","Government",0
+"124837","MANCHU A","Elementary Manchu","East Asian Langs & Civ",1
+"124900","MCB 292","Cellular Biology, Neurobiology","Molecular & Cellular Biology",0
+"124905","CHEM 301HFA","Scientific Teaching and Comm","Chemistry & Chemical Biology",0
+"124966","ASTRON 200","Phys Processes in Astrophysics","Astronomy",1
+"124970","PSY 2464R","Res Mthds Child & Adol Clin Ps","Psychology",3
+"124971","PLSH BA","Intermediate Polish I","Slavic Languages & Literatures",0
+"124982","SPANSH 10","Beginning Spanish I","Romance Languages & Lit",75
+"124993","ITAL 96R","Italian and the Community","Romance Languages & Lit",1
+"125000","RELIGION 1401","Early Chr Thgh 1t: Greek Trad","Religion, The Study of",3
+"125011","SPANSH 20","Intermediate Spanish","Romance Languages & Lit",85
+"125014","SPANSH 40","Advanced Spanish Language I","Romance Languages & Lit",44
+"125049","HIST 1024","The British Empire","History",58
+"125058","SPANSH 11","Beginning Spanish II","Romance Languages & Lit",76
+"125061","ITAL 11","Beginning Italian II","Romance Languages & Lit",1
+"125080","MCB 304A","Exp Bio Physics Quant Cell Bio","Molecular & Cellular Biology",0
+"125081","MCB 305A","Signaling Processing & Systems","Molecular & Cellular Biology",0
+"125089","SOCIOL 2205","Sociological Research Design","Sociology",0
+"125097","HIST 3920A","Colloquium on Teaching","History",0
+"125184","PHIL 315HFA","Instructional Styles Philosoph","Philosophy",0
+"125190","GENED 1087","Islam Through the Arts","General Education",26
+"125195","GENED 1004","Understanding Darwinism","General Education",210
+"125212","MUSIC 51A","Theory Ia","Music",31
+"125216","GENED 1097","Tradition,Performance,Culture","General Education",28
+"125227","EXPOS 40","Public Speaking Practicum","Expository Writing",128
+"125265","CELLBIO 383","Internl & Externl Sensory Sys","Medical Sciences",0
+"125275","NEUROBIO 301","Vis Obj Recgn: Mol, Neuro, Com","Medical Sciences",0
+"125283","VIROLOGY 336","Gen Chngs: HIV, Hep C Virus","Medical Sciences",0
+"125315","PHYSICS 349A","Topics Theoretical Particle Ph","Physics",0
+"125317","E-PSCI 370","Structural Analysis","Earth & Planetary Sciences",0
+"125320","PHYSICS 331A","Topics in String Theory","Physics",0
+"125321","PHYSICS 331B","Topics in String Theory","Physics",0
+"125323","PSY 2356R","Visual Cognition: Research Sem","Psychology",1
+"125372","ECON 2410A","Macro-Finance: Rational and Be","Economics",0
+"125374","ENG-SCI 301","SEAS Teaching Practicum","Engineering Sciences",0
+"125383","MCB 332A","Mech Membrane Cell Bio Proc","Molecular & Cellular Biology",0
+"125388","COMPSCI 316","Social Computing: Comptn & Eco","Computer Science",0
+"125389","RELIGION 3425A","New Testament Sem Doc Diss","Religion, The Study of",0
+"125396","MATH 18A","Multivariable Calculus","Mathematics",45
+"125399","MICROBI 348","Toll-like Rcptrs Innate Immuni","Medical Sciences",0
+"125407","COMPSCI 105","Privacy and Technology","Computer Science",34
+"125419","APPHY 372","Biological Physics and Quant B","Applied Physics",0
+"125450","ANTHRO 1190","The Invasion of America","Anthropology",18
+"125452","GOV 3006A","Research Wrkshp in Comp Polit","Government",0
+"125466","MBB 90R","Mind/Brain/Behavior Research","Mind, Brain & Behavior",2
+"125468","NEUROBIO 395","Neuron-Glia Interactions","Medical Sciences",0
+"125472","APPHY 330","Hetero Nano Devices & Bio-temp","Applied Physics",0
+"125476","APPHY 322","Materials Physics and","Applied Physics",0
+"125478","ENG-SCI 340","Materials Phys & Eng","Engineering Sciences",0
+"125480","ENG-SCI 322","Hetero Nano Devices & Bio-temp","Engineering Sciences",0
+"125532","NEUROBIO 305","Cell & Mol of Epilepsy & Autis","Medical Sciences",0
+"125582","HBTM 340","(LHB). Disease-Centered Tutori","Medical Sciences",0
+"125583","GENETIC 361","Epigenetic regulation by long","Medical Sciences",0
+"125611","GENED 1042","Anime as Global Pop Culture","General Education",17
+"125637","VIETNAM 140A","Advanced-High Vietnamese","East Asian Langs & Civ",0
+"125643","EABS 256R","Chinese Buddhist Texts","East Asian Langs & Civ",0
+"125735","ANTHRO 2250B","Proseminar in Archaeology","Anthropology",0
+"125755","MCB 368A","Neural Circuits for Sensation","Molecular & Cellular Biology",0
+"125771","BIOPHYS 319","Analysis of Structure and","Biophysics",0
+"125779","BIOPHYS 326","Statistical and Continuum","Biophysics",0
+"125790","LING 104","Word Structure","Linguistics",16
+"125800","SCRB 10","Human Develpmtl & Regentve Bio","Stem Cell & Regenerative Biol",34
+"125804","SCRB 91R","Introduction to Research","Stem Cell & Regenerative Biol",18
+"125805","SCRB 99A","Lab Research Honors Thesis","Stem Cell & Regenerative Biol",14
+"125863","MUSIC 250HFA","Colloq. on Teaching Pedagogy","Music",0
+"125869","MATH 352","Topics in Algebraic Number","Mathematics",0
+"125881","ASTRON 110","Exoplanets","Astronomy",22
+"125884","ASTRON 17","Galactic and Extragalactic","Astronomy",19
+"125932","GENED 1079","Cure for Health","General Education",55
+"125944","ECON 1776","Relig and the Rise of Capitali","Economics",10
+"125982","SOC-STD 98LF","Globalization and Nation State","Social Studies",10
+"126038","FRENCH 180","Women Writing in French","Romance Languages & Lit",5
+"126101","E-PSCI 381","Isotope Geobio & Earth History","Earth & Planetary Sciences",0
+"126109","CLASSIC 98","Tutorial - Junior Year","Classics, The",9
+"126172","APPHY 374","Signaling Processing and Syste","Applied Physics",0
+"126275","MUSIC 127R","Intensive Conducting","Music",5
+"126279","HEB 3000","Reading and Research","Human Evolutionary Biology",0
+"126280","HEB 3001","Reading for General Exam","Human Evolutionary Biology",0
+"126282","HEB 3400","Adv Reading & Research","Human Evolutionary Biology",0
+"126283","HEB 3500","Doctoral Dissertation","Human Evolutionary Biology",0
+"126300","AMHARIC AA","Elementary Amharic","African & African Amer Studies",9
+"126306","HAITIAN AA","Elementary Haitian Creole","African & African Amer Studies",0
+"126307","HAUSA AA","Elementary Hausa","African & African Amer Studies",1
+"126308","IGBO AA","Elementary Igbo","African & African Amer Studies",9
+"126313","TIGRINYA AA","Elementary Tigrinya","African & African Amer Studies",2
+"126316","ZULU AA","Elementary Zulu","African & African Amer Studies",60
+"126329","COMPSCI 364","Programming Lang and Security","Computer Science",0
+"126331","COMPSCI 326","Intel Interactive Systems","Computer Science",0
+"126361","BCMP 312","Repair of Double stranded DNA","Medical Sciences",0
+"126363","BCMP 318","Mol mechanism of immune system","Medical Sciences",0
+"126365","CELLBIO 306","Chromatin Dynamics in metaboli","Medical Sciences",0
+"126368","GENETIC 320","Genetics of Common Human Disea","Medical Sciences",0
+"126374","HBTM 342","Research in Hematology","Medical Sciences",0
+"126385","DRB 310","Blood Stem Cell Development","Medical Sciences",0
+"126386","DRB 311","Cardiovascular Development and","Medical Sciences",0
+"126388","DRB 313","Liver Development","Medical Sciences",0
+"126389","DRB 314","Devel & Reprogramming Neuronal","Medical Sciences",0
+"126391","DRB 316","Stem Cells and Organ Size","Medical Sciences",0
+"126393","STAT 260","Design & Analys of Sample Surv","Statistics",2
+"126396","NEUROBIO 359","Functional and Behavioral","Medical Sciences",0
+"126402","BPH 201R","Laboratory Rotations","Bio Sciences in Public Health",0
+"126406","HEB 3350","Lab Methods in Nutrition","Human Evolutionary Biology",0
+"126430","TURKISH 150A","Advanced Ottoman Turkish I","Near Eastern Languages & Civ",0
+"126489","SCRB 399","Vertebrate Developmental Biolo","Stem Cell & Regenerative Biol",0
+"126529","SOCIOL 3315","Inequality & Social Policy","Sociology",0
+"126539","HAA 97R","Sophomore Tutorial","History of Art & Architecture",13
+"126551","PSY 14","Cognitive Neuroscience","Psychology",16
+"126555","HIST 2495","Politics and Social Movements","History",0
+"126556","PSY 1005","Health: Positive Psychology","Psychology",155
+"126633","GENED 1094","The Climate-Energy Challenge","General Education",48
+"126638","GENED 1104","Science and Cooking","General Education",53
+"126647","SCAND 90R.A","Danish","Germanic Languages & Lit",3
+"126649","SCAND 90R.B","Finnish","Germanic Languages & Lit",1
+"126650","SCAND 90R.C","Norwegian","Germanic Languages & Lit",8
+"126663","ECON 3002","Theory Grad Workshop","Economics",0
+"126666","ECON 2412A","Political Economics","Economics",2
+"126691","EGYPTIAN AA","The Language of the Pharaohs","Near Eastern Languages & Civ",6
+"126695","CHEMBIO 300HFA","Intro to Chemical Bio Research","Chemical Biology",0
+"126744","SCRB 140","Growth and Regeneration","Stem Cell & Regenerative Biol",7
+"126838","FRSEMR 35N","The Art and Craft of Acting","Freshman Seminars",12
+"126908","GENED 1123","Islam & Politics Mod Mid East","General Education",42
+"126919","HEB 3200","Graduate Seminar in HEB","Human Evolutionary Biology",0
+"126923","JAPNLIT 270","Mod & Contemp Japanese Fiction","East Asian Langs & Civ",1
+"126933","FRENCH 10","Beginning French I","Romance Languages & Lit",38
+"126935","FRENCH 11","Beginning French II","Romance Languages & Lit",8
+"126938","FRENCH 20","Intermediate French","Romance Languages & Lit",34
+"126942","FRENCH 30","Upper-level French","Romance Languages & Lit",16
+"126982","HAA 124E","Architectural Icons","History of Art & Architecture",5
+"126997","FRENCH 40","Advanced French I","Romance Languages & Lit",29
+"126998","FRENCH 50","Advanced French II","Romance Languages & Lit",11
+"127011","MCB 198","Adv Math Techniques Modern Bio","Molecular & Cellular Biology",0
+"127012","MCB 379A","Bacteria: Soc Behav & Gene","Molecular & Cellular Biology",0
+"127021","SOC-STD 98MI","Migration in Theory and Practi","Social Studies",10
+"127050","ANTHRO 1250","The Pyramids of Giza","Anthropology",14
+"127060","GOV 3001","Approaches to Study of Pol","Government",0
+"127071","ENG-SCI 348","Biomolecular Engineering,","Engineering Sciences",0
+"127073","ENG-SCI 342","Mechanics of Soft Materials","Engineering Sciences",0
+"127207","BBS 301","Embedded Teaching Practicum","Medical Sciences",0
+"127231","GHHP 91","Supervised Reading & Research","Global Health & Health Policy",7
+"127374","CELLBIO 325","Molecular and Cellular Regulat","Medical Sciences",0
+"127400","GENETIC 388","Genetics of Neuronal Morph","Medical Sciences",0
+"127402","ENG-SCI 398","Multidimensional Signal","Engineering Sciences",0
+"127406","NEUROBIO 387","Modulation and Plasticity of","Medical Sciences",0
+"127407","GENETIC 391","Genetic and genomic basis of b","Medical Sciences",0
+"127469","AFVS 60X","Approaching Narrative: Intro","Art, Film, and Visual Studies",10
+"127491","TAM 101A","Elementary Tamil","South Asian Studies",3
+"127493","TAM 102A","Intermediate Tamil","South Asian Studies",1
+"127497","GOV 2000E","Intro to Quant Methods I","Government",0
+"127504","CELLBIO 300QC","Adv Topics in Cell Biology","Medical Sciences",0
+"127507","MED-SCI 300QC","Conduct of Science","Medical Sciences",0
+"127512","BPH 381","Receptor Signaling and Disease","Bio Sciences in Public Health",0
+"127519","ECON 1432","Econ of European Integrations","Economics",28
+"127533","RUSS 113","Advanced Russian","Slavic Languages & Literatures",3
+"127535","PSY 980K","Growing Up and Growing Old","Psychology",16
+"127539","AFVS 351HF","Non-Fiction Filmmaking Wkshp","Art, Film, and Visual Studies",0
+"127561","APMTH 207","Advanced Scientific Computing","Applied Mathematics",16
+"127573","SPANSH 61N","Ethics of Business in Lat Am","Romance Languages & Lit",33
+"127601","BPH 304QC","Control of Parasitic Diseases","Bio Sciences in Public Health",0
+"127602","BPH 305QC","Training in Pulmonary Sci 1","Bio Sciences in Public Health",0
+"127670","MOD-HEB 241R","Adv Seminar in Modern Hebrew","Near Eastern Languages & Civ",4
+"127688","BIOPHYS 339","Theoretical and Exp Approaches","Biophysics",0
+"127704","GOV 3007A","Research Wrkshp in Pol Economy","Government",0
+"127739","DRB 321","Stem Cells and Neurodegenerati","Medical Sciences",0
+"127772","STAT 398","Research","Statistics",0
+"127813","MCB 121","Microbes","Molecular & Cellular Biology",4
+"127817","SOC-STD 98NB","Inequality and Social Mobility","Social Studies",10
+"127821","KORHIST 261","Readings in Modern Korean Hist","East Asian Langs & Civ",0
+"127836","HAA 194W","Worlds Fairs","History of Art & Architecture",9
+"127856","STAT 244","Linear & Generalized Linear Mo","Statistics",10
+"127870","FRENCH 226","How to Read Theater","Romance Languages & Lit",0
+"127916","SYSBIO 204","Synthetic Biology","Systems Biology",0
+"127917","EGYPTIAN 150","Voices from the Nile","Near Eastern Languages & Civ",2
+"127929","SUDANESE AA","Elementary Sudanese Arabic","African & African Amer Studies",0
+"127937","COMPSCI 246","Advanced Computer Architecture","Computer Science",18
+"127970","FRSEMR 40J","Advice to Young Leaders","Freshman Seminars",15
+"127972","FRSEMR 23Y","All Physics in 13 Days","Freshman Seminars",11
+"127976","FRSEMR 24G","A Brief History of Surgery","Freshman Seminars",11
+"127980","PHYSICS 295A","Quantum Theory of Solids","Physics",2
+"128009","GOV 94OF","Law, Pol Multicultural Dem","Government",11
+"128024","GOV 1510","American Constitutional Law","Government",173
+"128041","SCRB 175","Glucose","Stem Cell & Regenerative Biol",53
+"128101","APCOMP 227","Computational Physics","Applied Computation",0
+"128105","COMPSCI 207","Systems Development","Computer Science",18
+"128124","FRSEMR 36G","The Creative Work of Translati","Freshman Seminars",10
+"128164","COMPSCI 136","Economics and Computation","Computer Science",86
+"128167","GENETIC 372","Molecular Mechanisms of Aging","Medical Sciences",0
+"128171","CELLBIO 365","Mechanism and Biology","Medical Sciences",0
+"128172","CELLBIO 366","Mitochondria in Aging","Medical Sciences",0
+"128185","MICROBI 349","Molecular Mechanisms","Medical Sciences",0
+"128186","MICROBI 350","Regulation of T-cell Mediated","Medical Sciences",0
+"128209","COMPLIT 274","Politics of Aesthetics","Comparative Literature",11
+"128215","MBB 980F","Creativity","Mind, Brain & Behavior",15
+"128257","HIST 2951","Environmental Turn in History","History",0
+"128265","ITAL 20","Intermediate Italian","Romance Languages & Lit",5
+"128266","ITAL 30","Upper-Level Italian","Romance Languages & Lit",6
+"128274","SOCIOL 3317","Culture, History and Society","Sociology",0
+"128307","PSY 2475R","Systems Neurosc. of Psychopath","Psychology",2
+"130000","ENGLISH CHCR","Advanced Poetry: Workshop","English",12
+"130018","IMMUN 310","Innate & Adaptive Immune Cells","Medical Sciences",0
+"130236","OEB 50","Genetics and Genomics","Organismic & Evolutionary Biol",43
+"130245","ENGLISH 182","Science Fiction","English",25
+"130246","ENGLISH 55","Poets: Lyric Poetry","English",27
+"130260","ENGLISH 170A","High and Low in Postwar Americ","English",48
+"130331","OEB 56","Geobiology & History of Life","Organismic & Evolutionary Biol",13
+"130345","IMMUN 326L","Mechanistic Elucidation","Medical Sciences",0
+"130614","IMMUN 307QC","Cancer Immunology","Medical Sciences",0
+"130822","OEB 380","Neurobiologcl Basis Behavior","Organismic & Evolutionary Biol",0
+"130869","ENGLISH 41","Arrivals: 700-1700","English",27
+"130911","ENGLISH 239","English Lit in the Continental","English",0
+"131189","PSY 2670A","Decision Making & Psych of Pos","Psychology",0
+"131235","OEB 343","Microbial Ecology &Symbiosis","Organismic & Evolutionary Biol",0
+"131261","OEB 212R","Adv Topics in Plant Physiology","Organismic & Evolutionary Biol",3
+"131285","APPHY 332","Exp Condensed Matter Physics","Applied Physics",0
+"131291","SOCIOL 2290","Qualitative Network Analysis","Sociology",0
+"131316","IMMUN 346","Antigen in Lymph Nodes","Medical Sciences",0
+"131331","APPHY 195","Intro to Solid State Physics","Applied Physics",1
+"131343","IMMUN 350","Regulation of Autoimmune T Cel","Medical Sciences",0
+"131373","APPHY 299R","Special Topics Applied Physics","Applied Physics",0
+"131392","APPHY 284","Statistical Mechanics","Applied Physics",0
+"131484","BPH 315","Genetic Analysis Gene Express.","Bio Sciences in Public Health",0
+"131493","COMPSCI 153","Compilers","Computer Science",34
+"131521","ENG-SCI 240","Solid Mechanics","Engineering Sciences",0
+"131524","OEB 341","Coevolution","Organismic & Evolutionary Biol",0
+"131537","OEB 303","Theoretical Population Genetic","Organismic & Evolutionary Biol",0
+"131538","OEB 320","Biomech & Evol of Vertebrates","Organismic & Evolutionary Biol",0
+"131562","IMMUN 360","Hematopoietic Stem Cells","Medical Sciences",0
+"131766","IMMUN 364","T-cell Diff, Tol, & Auto","Medical Sciences",0
+"132127","APMTH 101","Stat Inference for Sci and Eng","Applied Mathematics",33
+"132616","ECON 3107","Seminar in Public Economics","Economics",0
+"133140","APPHY 360","Nonlinear Laser Phys & Mater E","Applied Physics",0
+"133181","PHIL 6","Ancient Ethics and Modern Mora","Philosophy",34
+"133725","BCMP 311","Macromolecular Assemblies","Medical Sciences",0
+"133893","OEB 305","Fundamental Interconnectedness","Organismic & Evolutionary Biol",0
+"135062","LATIN H","Intro: Latin Prose Composition","Classics, The",3
+"135225","EASTD 99A","Tutorial - Senior Year","East Asian Langs & Civ",4
+"135449","APMTH 106","Applied Algebra","Applied Mathematics",0
+"135598","ENG-SCI 181","Engineering Thermodynamics","Engineering Sciences",43
+"136675","E-PSCI 331","Atmospheric Chemistry","Earth & Planetary Sciences",0
+"136717","ROM-LANG 210","Language Pedagogy","Romance Languages & Lit",0
+"138303","LING 241","Practicum in Linguistics","Linguistics",0
+"141012","SPANSH 122","Spanish Film, Buñuel-Almodóvar","Romance Languages & Lit",18
+"141168","OEB 345","Biological Oceanography","Organismic & Evolutionary Biol",0
+"141253","APPHY 216","Electromag Interact with Matte","Applied Physics",1
+"141338","OEB 304","Mycology","Organismic & Evolutionary Biol",0
+"141608","PHIL 18","Human Ethics: A Brief History","Philosophy",9
+"141657","SOCIOL 1112","Men, Women, and Work","Sociology",8
+"142192","OEB 114","Vertebrate Viviparity","Organismic & Evolutionary Biol",29
+"142204","IMMUN 301","Immunology Seminar","Medical Sciences",0
+"142229","APPHY 396","Topics in Materials Science","Applied Physics",0
+"142234","OEB 308","Evolution Floral Devel Mechan","Organismic & Evolutionary Biol",0
+"142435","OEB 339","Whole-Plant Physiology","Organismic & Evolutionary Biol",0
+"142451","GENED 1136","Power and Civilization China","General Education",21
+"142657","HIST 1023","Japan in Asia and the World","History",12
+"142688","OEB 155R","Biology of Insects","Organismic & Evolutionary Biol",6
+"142695","HIST 1878A","The Ottoman Empire","History",6
+"142714","IMMUN 328R","Introduction to Research","Medical Sciences",0
+"142819","WOMGEN 1210FT","Feminist Theory as Critique","Women, Gender & Sexuality",7
+"142838","STAT 305R","Statistical Consulting","Statistics",0
+"142998","APPHY 282","Solids: Structure and Defects","Applied Physics",0
+"143013","SPANSH 320","Spanish & Hispanic-American Li","Romance Languages & Lit",0
+"143020","OEB 311","Ecosystem Ecology","Organismic & Evolutionary Biol",0
+"143023","GOV 3002","Political Science","Government",0
+"143057","HBTM 201","Tumor Microenvironment and Imm","Medical Sciences",0
+"143094","PSY 3360","Vision and Sensory Processes","Psychology",0
+"143250","HAA 206","Science & Practice of Art Hist","History of Art & Architecture",10
+"143299","COMPSCI 312","Collaborative Systems, AI","Computer Science",0
+"143482","IMMUN 344","Genetic Analysis Lymphcyte Dev","Medical Sciences",0
+"143495","OEB 361","Somatic Evolution of Cancer","Organismic & Evolutionary Biol",0
+"143668","ENG-SCI 299R","Topics in Engineering Sciences","Engineering Sciences",1
+"143819","PHYSICS 311B","Exp Atomic, Molec, & Low-Energ","Physics",0
+"143845","OEB 275R","Phylogenomics, Comp Genomics","Organismic & Evolutionary Biol",1
+"143855","APPHY 295A","Quantum Theory of Solids","Applied Physics",0
+"143870","ENG-SCI 190","Intro to Materials Science/Eng","Engineering Sciences",26
+"144070","EASTD 170","Medicine and the Body in East","East Asian Langs & Civ",22
+"144157","ENG-SCI 125","Mechanical Systems","Engineering Sciences",26
+"144165","IMMUN 336","T-Lymphocyte Recognition","Medical Sciences",0
+"144166","OEB 364","Eco Physiology of Microbes","Organismic & Evolutionary Biol",0
+"144184","SWAHILI BA","Intermediate Swahili","African & African Amer Studies",4
+"144339","ENG-SCI 362","Atmospheric Chemistry","Engineering Sciences",0
+"144344","PHYSICS 379A","Elementary Particle Research","Physics",0
+"144350","ENG-SCI 100HFA","Engineering Design Projects","Engineering Sciences",50
+"144581","OEB 99R","Supervised Research","Organismic & Evolutionary Biol",28
+"144594","OEB 10","Foundations of Bio Diversity","Organismic & Evolutionary Biol",67
+"144847","OEB 323","Advanced Vertebrate Anatomy","Organismic & Evolutionary Biol",0
+"144912","OEB 334","Behavioral Ecology","Organismic & Evolutionary Biol",0
+"144968","NEUROBIO 356","Ion Channels in Neural Cell Me","Medical Sciences",0
+"144983","ENG-SCI 96","Engineering Problem Solving","Engineering Sciences",11
+"145004","OEB 369","Molecular Genetics of Neurosci","Organismic & Evolutionary Biol",0
+"145022","IMMUN 345","Pre-B Cell-fate & Antigen Rece","Medical Sciences",0
+"145023","EASTD 98B","Junior Tutorial--Japan","East Asian Langs & Civ",1
+"145035","OEB 370","Mammalian Evolutionary Genetic","Organismic & Evolutionary Biol",0
+"145140","OEB 119","Deep Sea Biology","Organismic & Evolutionary Biol",43
+"145805","ENGLISH 62","Migrations","English",17
+"145857","OEB 145","Genes and Behavior","Organismic & Evolutionary Biol",4
+"146222","OEB 375","Evolutionary Dynamics and","Organismic & Evolutionary Biol",0
+"146224","OEB 385","Natural Selection Humans & Pat","Organismic & Evolutionary Biol",0
+"146556","ENGLISH 121CG","After Hamlet","English",26
+"146590","ENGLISH 181A","Intro to Asian American Lit","English",21
+"146632","ENGLISH CBBR","Intermediate Poetry: Workshop","English",11
+"146652","IMMUN 325L","Mechnsm Peripheral Tolerance","Medical Sciences",0
+"146705","IMMUN 354","Transplantation Biology","Medical Sciences",0
+"146731","NEUROBIO 350","Development, degeneration, and","Medical Sciences",0
+"146752","PHIL 141","Frege, Russell, Early Wittgens","Philosophy",12
+"146777","ENG-SCI 316","Wireless Computing Networking","Engineering Sciences",0
+"146784","APPHY 338","Growth & Properties of Nanostr","Applied Physics",0
+"146785","OEB 307","Biomech, Physiol & Musculo Bio","Organismic & Evolutionary Biol",0
+"146798","OEB 355","Evolutionary Developmental Bio","Organismic & Evolutionary Biol",0
+"147101","HIST 2884","Ottoman Social & Cultural Hist","History",1
+"147213","GOV 1735","Controlling the World's Most","Government",11
+"148041","BCMP 329","Cytoplasmic Signal Transductio","Medical Sciences",0
+"148042","APPHY 398","Materials Science","Applied Physics",0
+"148064","ENGLISH 306HF","Long 19th C. & Modernism","English",0
+"148072","OEB 310","Metazon Systematics","Organismic & Evolutionary Biol",0
+"148122","OEB 106","Plant Devlpmnt & Differentiatn","Organismic & Evolutionary Biol",9
+"148189","PHYSICS 311A","Exp Atomic, Molec, & Low-Energ","Physics",0
+"148190","OEB 362","Research Molecular Evolution","Organismic & Evolutionary Biol",0
+"148193","IMMUN 392","Dend Cells & Init of Immune Re","Medical Sciences",0
+"148194","IMMUN 394","Cytotoxic Lymphocytes","Medical Sciences",0
+"148213","OEB 363","Plant Diversity and Evolution","Organismic & Evolutionary Biol",0
+"148221","ENG-SCI 310","Design, Sensing, and Control","Engineering Sciences",0
+"148230","PHYSICS 379B","Elementary Particle Research","Physics",0
+"148232","SCRB 302","Mechans Epigenetic Reprogrammi","Stem Cell & Regenerative Biol",0
+"148233","MCB 307A","Dev Genetics and Neurobiology","Molecular & Cellular Biology",0
+"148242","OEB 399","Topics in OEB","Organismic & Evolutionary Biol",0
+"148250","OEB 54","Biology of the Fungi","Organismic & Evolutionary Biol",13
+"148304","OEB 371","Compar & Evol Inverteb Dev Bio","Organismic & Evolutionary Biol",0
+"148325","IMMUN 312","Interplay Between the Innate","Medical Sciences",0
+"148326","IMMUN 390","The Role of NK Cells in Tissue","Medical Sciences",0
+"148329","EASTD 91R","Supervised Reading & Research","East Asian Langs & Civ",1
+"148330","OEB 386","Organismic and Evolutionary","Organismic & Evolutionary Biol",0
+"148434","ENG-SCI 51","Computer-Aided Machine Design","Engineering Sciences",19
+"148547","IMMUN 201","Advanced Topics in Immunology","Medical Sciences",1
+"150189","BE 110","Physiological Systems Analysis","Biomedical Engineering",25
+"152514","COMPSCI 50","Intro to Computer Science","Computer Science",718
+"152860","EASTD 90R","East Asian Language Tutorials","East Asian Langs & Civ",0
+"153042","MUSIC 189R","Chamber Music Performance","Music",50
+"156014","BIOPHYS 350","Prokaryotic Cytoplasm","Biophysics",0
+"156024","PHIL 173","Metaethics","Philosophy",32
+"156054","PSY 1305","Evolutionary Psychology","Psychology",47
+"156076","MUSIC 157RW","S. Indian Music Theory & Prac","Music",2
+"156084","WOMGEN 1247","Women's Political Resistance","Women, Gender & Sexuality",20
+"156088","RELIGION 1572","Sex, Gender and Sexuality","Religion, The Study of",2
+"156089","BBS 330","Critical Thinking and Research","Medical Sciences",0
+"156091","RELIGION 2455","Aquinas","Religion, The Study of",0
+"156105","RELIGION 1829","Islam in U.S. and Europe","Religion, The Study of",2
+"156108","GOV 1074","Pol Thought of the Am Founding","Government",22
+"156119","MATH 145A","Set Theory I","Mathematics",6
+"156172","AFVS 289","The Frankfurt School on Mass","Art, Film, and Visual Studies",0
+"156174","HEB 1480","Building the Human Body","Human Evolutionary Biology",7
+"156181","FRSEMR 26Z","What Is Life?","Freshman Seminars",12
+"156182","FRSEMR 41U","Museums","Freshman Seminars",12
+"156186","PHIL 11","Philosophy of Law","Philosophy",39
+"156202","APCOMP 297R","CSE Capstone Project","Applied Computation",2
+"156203","APMTH 203","Intro is Disordered Systems","Applied Mathematics",3
+"156219","ENG-SCI 291","Nano|Micro|Macro","Engineering Sciences",0
+"156235","AFVS 174","Art of the Real","Art, Film, and Visual Studies",5
+"156250","RELIGION 1497","Evangelicalism in America","Religion, The Study of",6
+"156288","ENG-SCI 121","Optimization: Models and Metho","Engineering Sciences",1
+"156296","RELIGION 1590","Issues: Study Native Am Relig","Religion, The Study of",1
+"156310","CLS-STDY 152","Gender & Sexuality Anc. Greece","Classics, The",19
+"156371","ECON 2035","Psychology and Economic Theory","Economics",0
+"156425","STAT 120","Intr Bayesian Infer & Appl","Statistics",8
+"156427","ENG-SCI 115","Mathematical Modeling","Engineering Sciences",0
+"156450","FRSEMR 26K","Transform Ideas in Brain Sci","Freshman Seminars",11
+"156502","FRSEMR 41K","Human Rights, Law and Advocacy","Freshman Seminars",12
+"156518","ENG-SCI 153","Laboratory Electronics","Engineering Sciences",1
+"156525","AFVS 330R","Teaching Workshop","Art, Film, and Visual Studies",0
+"156535","APCOMP 302","Special Topics in CSE","Applied Computation",0
+"156538","PORTUG 123A","Portuguese Literary Studies I","Romance Languages & Lit",1
+"156564","HIST 1993","Introduction to Digital","History",5
+"156569","PSY 1454","Neuroscience Fiction","Psychology",6
+"156605","ECON 2326","Economic Development","Economics",0
+"156623","PSY 2560R","Laboratory in Social Cognition","Psychology",2
+"156624","PSY 2620R","Lab in Intergroup Neuroscience","Psychology",0
+"156652","BPH 390","Cellular Mech Lipid Homeostasi","Bio Sciences in Public Health",0
+"156669","BCMP 321","Structure and Function of","Medical Sciences",0
+"156670","ECON 975B","Tutorial - Macroeconomics Theo","Economics",4
+"156676","ESPP 90X","Current Issues in US Environ L","Envi Science & Public Policy",19
+"156718","NEUROBIO 318L","Neurobio of Motivational State","Medical Sciences",0
+"156720","GENETIC 303L","Craniofacial Developmental Bio","Medical Sciences",0
+"156732","SCRB 350","Epithelial Stem Cells","Stem Cell & Regenerative Biol",0
+"156736","APPHY 350","Exp Physics in Low Dimen Mater","Applied Physics",0
+"156737","OEB 309","Evolution, Genomics, & Speciat","Organismic & Evolutionary Biol",0
+"156741","APPHY 354","Physics of Bacterial Growth","Applied Physics",0
+"156744","COMPSCI 320","Data Systems Design","Computer Science",0
+"156746","ENG-SCI 306","Control Theory","Engineering Sciences",0
+"156750","JAMAICAN AA","Elementary Jamaican Patois","African & African Amer Studies",30
+"156896","HIST 2477","Hist of American Economic","History",1
+"156902","NEUROBIO 335L","Molec Mech Underly Neural Circ","Medical Sciences",0
+"156926","NEUROBIO 336L","Synapse form mammalian brain","Medical Sciences",0
+"156933","ESE 161","Applied Environmental Toxicolo","Environmental Sci & Engineer",30
+"156935","AFRAMER 116","Autobiography and Memoir","African & African Amer Studies",9
+"156936","COMPSCI 282R","Topics in Machine Learning","Computer Science",8
+"156944","PORTUG 15","Intensive Beginning Portuguese","Romance Languages & Lit",2
+"159551","EAFM 111","East Asian Media Studies","East Asian Langs & Civ",10
+"159553","JAPNHIST 214R","Maj Issues in Study Jpn Rel","East Asian Langs & Civ",0
+"159565","HEB 1290","Cultural Evolution","Human Evolutionary Biology",17
+"159595","JAPAN 120A","Intermediate Japanese I","East Asian Langs & Civ",11
+"159603","GERMAN 101","German Literature, Culture","Germanic Languages & Lit",6
+"159619","E-PSCI 99B","Tutorial - Senior Year","Earth & Planetary Sciences",1
+"159629","CHNSE 130A","Pre-Advanced Modern Chinese","East Asian Langs & Civ",40
+"159688","PHIL 192","Buddhist Philosophy","Philosophy",8
+"159706","LIFESCI 50A","Integrated Science","Molecular & Cellular Biology",45
+"159736","FRSEMR 31D","Nietzsche","Freshman Seminars",10
+"159754","PHIL 279","Topics in Pol Phil","Philosophy",0
+"159759","PERSIAN 155","Prefaces and Exordiums","Near Eastern Languages & Civ",0
+"159776","APMTH 324","Scientific Computation","Applied Mathematics",0
+"159836","FRSEMR 33C","Borges, García Márquez, Bolaño","Freshman Seminars",8
+"159837","FRSEMR 41R","Media in American Politics","Freshman Seminars",12
+"159838","FRSEMR 22C","Psychoactive Molecules from Ba","Freshman Seminars",13
+"159839","FRSEMR 22D","Time for Sleep: Impact of slee","Freshman Seminars",14
+"159840","MODGRK AA","Elementary Modern Greek","Classics, The",7
+"159842","MODGRK BA","Intermediate Modern Greek","Classics, The",3
+"159849","RELIGION 99B","Tutorial - Senior Year","Religion, The Study of",1
+"159854","SOCIOL 99B","Senior Tutorial","Sociology",1
+"159861","AFVS 99B","Tutorial - Senior Year","Art, Film, and Visual Studies",2
+"159880","MCB 148","The Neurobiology of Pain","Molecular & Cellular Biology",0
+"159926","SOCIOL 1133","War, Revol, and Organ Crime","Sociology",8
+"159947","OEB 387","Plant Evolution and Speciation","Organismic & Evolutionary Biol",0
+"159949","GENETIC 338","Epigenetic inheritance and sma","Medical Sciences",0
+"159964","STAT 99R","Tutorial - Senior Year","Statistics",14
+"160050","HIST 2919A","International Society","History",0
+"160159","SOC-STD 98PF","Rethinking Transnational Femin","Social Studies",7
+"160193","FRSEMR 22S","Quantum Mechanics Face to Face","Freshman Seminars",14
+"160198","FRSEMR 23C","Exploring the Infinite","Freshman Seminars",11
+"160203","FRSEMR 42H","U.S. Energy Policy and Climate","Freshman Seminars",12
+"160213","FRSEMR 43D","Christianity and Slavery in Am","Freshman Seminars",9
+"160215","FRSEMR 23H","Anatomy and Ethical Transgress","Freshman Seminars",12
+"160224","SOCIOL 98TA","Jr Tut: Elite Educ & Inequal","Sociology",11
+"160234","EGYPTIAN 200","Egyptian Text Reading","Near Eastern Languages & Civ",0
+"160334","HISTSCI 181","Humans in Space","History of Science",75
+"160339","ECON 2532","Int'l Macroeconomics & Finance","Economics",0
+"160351","ECON 1342","The History of Economic Growth","Economics",80
+"160358","CLASSIC 93","Advanced Tutorial for Credit","Classics, The",1
+"160362","ECON 1080","Grt Theorems of Microecon Thry","Economics",3
+"160364","MCB 100","Exper Research in MCB","Molecular & Cellular Biology",5
+"160373","GOV 1734","Ethics and War","Government",22
+"160403","MODMDEST 315","Read & Res: Reading al-Manar","Near Eastern Languages & Civ",0
+"160461","BPH 391","The evolution and spread of pa","Bio Sciences in Public Health",0
+"160493","MCB 354","Intro to Model Organisms","Molecular & Cellular Biology",0
+"160496","HISTSCI 170","Broken Brains","History of Science",25
+"160534","SOCIOL 92R","Faculty Research Assistant","Sociology",11
+"160544","RSRA 299B","AM Thesis Develmnt & Writing","Russia, E Europe, Central Asia",1
+"160553","ENG-SCI 100HFB","Engineering Design Projects","Engineering Sciences",1
+"160579","COMPSCI 263","Systems Security","Computer Science",32
+"160582","COMPLIT 343BA","Professing Literature 2","Comparative Literature",0
+"160636","ENGLISH 308HF","Theatre and Performance","English",0
+"160647","TDM 98","Junior Tutorial","Theater, Dance & Media",2
+"160654","TDM 120","What's so Funny?","Theater, Dance & Media",14
+"160657","PSY 2350R","Lab Reinforcement & Decision","Psychology",0
+"160670","COMPLIT 343CA","Professing Literature 3","Comparative Literature",0
+"160704","TDM 99A","Senior Tutorial","Theater, Dance & Media",8
+"160709","HEB 3596","Lab Methods in Dev Gen","Human Evolutionary Biology",0
+"160719","EAFM 300","Reading and Research","East Asian Langs & Civ",0
+"160736","STAT 151","Multilevel and Longitudinal","Statistics",7
+"160748","EMR 123","Iss Native American Religion","Ethnicity, Migration, Rights",0
+"160750","NEURO 130","Visual Recognition","Neuroscience",3
+"160760","IMMUN 335","Pain and Host Defense","Medical Sciences",0
+"160764","BCMP 336","Molecular mechanisms","Medical Sciences",0
+"160765","MICROBI 319","Molecular pathogenesis","Medical Sciences",0
+"160766","GENETIC 307","Regeneration in Axolotls","Medical Sciences",0
+"160767","DRB 327","MicroRNA in dvlpmnt & disease","Medical Sciences",0
+"160769","MICROBI 338","Engineering immunity","Medical Sciences",0
+"160778","IMMUN 332L","Gen dissection neural circuits","Medical Sciences",0
+"160949","ISLAMCIV 158X","Introduction to the Quran","Near Eastern Languages & Civ",10
+"160950","MED-SCI 315","Using RNA sequencing","Medical Sciences",0
+"160952","ENGLISH CFMR","Introductory Fiction Workshop","English",10
+"160953","ENGLISH CAFR","Advanced Fiction Workshop","English",7
+"160959","COMPSCI 362","Software Systems","Computer Science",0
+"160962","COMPSCI 327","Tools for Communication","Computer Science",0
+"160964","ENG-SCI 318","Structured Representations","Engineering Sciences",0
+"160965","ENG-SCI 384","Energy Related Materials","Engineering Sciences",0
+"160966","SHBT 313","Dissertation in optogenetics","Medical Sciences",0
+"160970","COMPSCI 386","Machine Learning","Computer Science",0
+"160971","ENG-SCI 392","Environmental Chemistry","Engineering Sciences",0
+"160972","IMMUN 334L","Function Genes Assoc w Auto","Medical Sciences",0
+"160978","ENG-SCI 372","Atmospheric & Environment Chem","Engineering Sciences",0
+"160981","PHYSICS 399A","Topics in Cosmology","Physics",0
+"161267","MBB 980N","Neuroaesthetics","Mind, Brain & Behavior",14
+"161269","HEB 1600","Evoltnry Genetics of Traits","Human Evolutionary Biology",7
+"161280","MED-SCI 316QC","PhD Pathfinder","Medical Sciences",0
+"161297","FOLKMYTH 176","Tattoo: Histories and Practice","Folklore & Mythology",13
+"161308","MED-SCI 317","Dev & App Genomic Technologies","Medical Sciences",0
+"161338","IMMUN 381","Immune Responses Against HIV","Medical Sciences",0
+"202986","IMMUN 387","Genetically-modified T cells","Medical Sciences",0
+"202988","HIST 1032","A History of Brazil","History",8
+"202992","HEB 1280","Human Nature","Human Evolutionary Biology",40
+"203001","FRSEMR 60C","Comics and Graphic Novels","Freshman Seminars",6
+"203002","FRSEMR 60D","Ireland Rising","Freshman Seminars",6
+"203005","FRSEMR 60H","Faith and Fiction in American","Freshman Seminars",4
+"203014","FRSEMR 70K","Morality, Leadership, and Gray","Freshman Seminars",14
+"203015","MED-SCI 318","Computational Oncology","Medical Sciences",0
+"203018","HIST 1776","The American Revolution","History",15
+"203024","GREEK 1","Introductory Ancient Greek 1","Classics, The",4
+"203025","LATIN 1","Introductory Latin 1","Classics, The",14
+"203031","MED-SCI 325","Internships","Medical Sciences",0
+"203081","MCB 112","Biological Data Analysis","Molecular & Cellular Biology",52
+"203101","STAT 121A","Data Science 1","Statistics",24
+"203211","PSY 1451","Debugging the Brain","Psychology",24
+"203213","RELIGION 1461","Gender, Religion and Scripture","Religion, The Study of",1
+"203214","GERMAN 143","German Empires","Germanic Languages & Lit",7
+"203218","HIST-LIT 90CF","The American Prison","History & Literature",15
+"203219","WOMGEN 1273","Black Masculinities","Women, Gender & Sexuality",8
+"203227","LATIN 3","Introductory Latin 3","Classics, The",5
+"203228","LATIN 10","Intro. to Latin Literature","Classics, The",5
+"203229","GREEK 3","Introductory Ancient Greek 3","Classics, The",5
+"203230","GREEK 10","Intro. to Ancient Greek Lit.","Classics, The",2
+"203258","LATIN 2X","Accelerated Intro. to Latin 2","Classics, The",1
+"203260","GREEK 2X","Accel. Intro. Ancient Greek 2","Classics, The",2
+"203264","ENGLISH CPY","Fiction Writing: Workshop","English",12
+"203265","ENGLISH CVB","Fiction Writing: Workshop","English",11
+"203266","ENGLISH CTV","Writing TV: Developing Pilot","English",12
+"203269","FRSEMR 50I","The Temporal Universe","Freshman Seminars",10
+"203313","AFVS 112","Drawing 2: Model Witness","Art, Film, and Visual Studies",16
+"203315","AFVS 279","Materiality, Visual Culture","Art, Film, and Visual Studies",0
+"203329","PHS 2000A","Quant Methods in PHS I","Population Health Sciences",0
+"203359","E-PSCI 366","Earthquake Seismology","Earth & Planetary Sciences",0
+"203360","E-PSCI 350","Planet Atmospheres & Climate","Earth & Planetary Sciences",0
+"203361","E-PSCI 268","Maching Learning in Earth Sci","Earth & Planetary Sciences",3
+"203368","SOCIOL 1131","Philanthropy and Nonprofit Org","Sociology",40
+"203375","PORTUG 70","Brazil through Study of Music","Romance Languages & Lit",2
+"203378","GERMAN 254","The Frankfurt School","Germanic Languages & Lit",0
+"203381","FRENCH 128","Growing Pains: Le roman d'appr","Romance Languages & Lit",4
+"203418","MCB 314A","Comp. Genome Sequence Analysis","Molecular & Cellular Biology",0
+"203424","FRSEMR 50P","Food, Up Close and Personal","Freshman Seminars",10
+"203431","PHYSICS 212","Cosmology","Physics",4
+"203447","PHIL 177","Educational Justice","Philosophy",15
+"203463","AFVS 132R","Object Matter of Jellyfish","Art, Film, and Visual Studies",10
+"203507","LING 73A","Begin. American Sign Lang. I","Linguistics",42
+"203555","ECON 1057","Game Theory with Applications","Economics",7
+"203556","ECON 980DD","Globalization and Inequality","Economics",7
+"203598","BPH 393","Airway epithelium and chroni","Bio Sciences in Public Health",0
+"203599","SOCIOL 3313","Urban Theory and Data Lab","Sociology",0
+"203602","HISTSCI 303A","Hist of Hist of Sci","History of Science",0
+"203706","HISTSCI 293","Knowledge and Ignorance","History of Science",2
+"203753","PHYSICS 323A","Condensed Matter Physics","Physics",0
+"203754","PHYSICS 323B","Condensed Matter Physics","Physics",0
+"203779","ECON 1058","Experimental Economics","Economics",14
+"203785","BMIF 350","Translational bioinformatics","Medical Sciences",0
+"203788","CELLBIO 369L","Protein structure by high-reso","Medical Sciences",0
+"203793","GENETIC 351L","Musculo-skeletal development","Medical Sciences",0
+"203802","IMMUN 388L","Innate leukocytes in acute and","Medical Sciences",0
+"203804","CELLBIO 330L","Lipid and Membrane Homeostasis","Medical Sciences",0
+"203808","BCMP 398L","Structural biology of the ubiq","Medical Sciences",0
+"203815","NEUROBIO 369L","Statistical neuronal computati","Medical Sciences",0
+"203851","NEURO 101FA","Neuro of Learning and Memory","Neuroscience",13
+"203917","PSY 980JS","But Why?","Psychology",8
+"204004","ECON 985WA","Research in Labor Economics, L","Economics",11
+"204006","SCRB 195","Translational Science Stem Cel","Stem Cell & Regenerative Biol",14
+"204007","E-PSCI 138","Mysteries of Climate Dynamics","Earth & Planetary Sciences",4
+"204016","CHEM 360","Chemical Biology","Chemistry & Chemical Biology",0
+"204017","CHEM 362","Organic Chemistry & Chemical B","Chemistry & Chemical Biology",0
+"204030","BCMP 395","Probing dynamics of gene expre","Medical Sciences",0
+"204031","TDM 143","GAGA","Theater, Dance & Media",13
+"204032","TDM 147","Dcnstrctng a Nvl into a Dance","Theater, Dance & Media",7
+"204033","HBTM 385","Functional Genomics of Obesity","Medical Sciences",0
+"204034","HBTM 387","Signal transduction and hollow","Medical Sciences",0
+"204035","BCMP 396","Chemical tools for manipulatin","Medical Sciences",0
+"204036","GENETIC 383L","Genome structure and function,","Medical Sciences",0
+"204037","CELLBIO 373L","Regulation of protein biosynth","Medical Sciences",0
+"204039","MICROBI 374","Enzyme biochemistry and innate","Medical Sciences",0
+"204053","NEC 299B","NELC Doctoral Colloquium","Near Eastern Languages & Civ",0
+"204093","OEB 321","Evolution Regeneration & Devel","Organismic & Evolutionary Biol",0
+"204094","VIROLOGY 356","Pattern rec B cell receptor","Medical Sciences",0
+"204095","MATH ESPA","Emerging Scholars: Prob Solvng","Mathematics",20
+"204110","WSTAFRCN AA","Elementary West African Pidgin","African & African Amer Studies",13
+"204369","PSY 2070","Psychometric Theory and Method","Psychology",1
+"204418","MUSIC 20","Opera","Music",11
+"204514","BPH 394","DNA Repair and Personalized Me","Bio Sciences in Public Health",0
+"204539","GOV 2312","Public Opinion","Government",0
+"204561","COMPSCI 372","Topics in Theory for Society","Computer Science",0
+"204568","IMMUN 360L","Immune Microenvironment","Medical Sciences",0
+"204662","ECON 3010","POL Econ Grad Student Workshop","Economics",0
+"204929","FRSEMR 50S","From Galileo to the Big Bang T","Freshman Seminars",3
+"204967","MUSIC 97L","Critical Listening","Music",14
+"204972","COMPSCI 126","Fairness and Privacy","Computer Science",8
+"204977","SOCIOL 3321","Race & Ethnicity Workshop","Sociology",0
+"204981","HIST 1917","Are You Now or Have You","History",2
+"204991","EAFM 151","Documenting China on Film","East Asian Langs & Civ",10
+"204997","KORLIT 214","Korean Writers and Their Books","East Asian Langs & Civ",0
+"205011","MCB 318A","Evo Dynam: Phys. Protein Func","Molecular & Cellular Biology",0
+"205023","TDM 90AR","Fall Production Studio","Theater, Dance & Media",5
+"205024","COMPLIT 102","Comparing, Connecting","Comparative Literature",15
+"205027","FRSEMR 70Q","Keeping It Simple: Consumer Fi","Freshman Seminars",11
+"205030","FRSEMR 61M","Silk Road Stories","Freshman Seminars",10
+"205043","COMPLIT 180","Bargaining with the Devil","Comparative Literature",25
+"205047","FRSEMR 61C","Spanish-American Culture and S","Freshman Seminars",9
+"205051","NEUROBIO 308QC","Thinking about data","Medical Sciences",0
+"205052","HAA 138M","Materiality of Late Antiquity","History of Art & Architecture",13
+"205053","NEUROBIO 319QC","Neurobiology of Psychiatric","Medical Sciences",0
+"205067","COMPLIT 147","Global Crime Fiction: Tackling","Comparative Literature",25
+"205073","AFVS 22","Introduction to Painting","Art, Film, and Visual Studies",12
+"205078","ENG-SCI 293","Cryo-Electron Microscopy","Engineering Sciences",1
+"205080","GERMAN 180","Bargaining with the Devil","Germanic Languages & Lit",3
+"205084","SLAVIC 177","Fugitives from Utopia","Slavic Languages & Literatures",0
+"205091","SOCIOL 98DA","Jr Tut: Collective Identity","Sociology",10
+"205099","NEURO 101GA","Sex and the Brain","Neuroscience",12
+"205105","NEURO 120","Intro Comp Neuroscience","Neuroscience",7
+"205111","LING 73C","Beginning ASL III","Linguistics",4
+"205112","HIST 1910","The History of Energy","History",14
+"205128","ENGLISH 90MK","Medieval Women & Knowledge","English",3
+"205149","SOCIOL 3323","Social Demography Wrkshp","Sociology",0
+"205151","ENGLISH CIHR","The I’s Have It: Personal Essy","English",10
+"205158","MBB 980P","Music in Health and Education","Mind, Brain & Behavior",15
+"205164","SPANSH 81","Table Talk and Food Writing","Romance Languages & Lit",11
+"205168","SPANSH 113","Cultural Political Myth-Making","Romance Languages & Lit",14
+"205179","FRSEMR 70Z","Regulating Online Conduct: Spe","Freshman Seminars",15
+"205183","AFVS 215","Critical Printing","Art, Film, and Visual Studies",3
+"205184","ANTHRO 99A","Thesis Tutorial in Anthropolog","Anthropology",14
+"205186","AMSTDIES 314A","Colloquium on Pedagogy","American Studies",0
+"205241","AFVS 155","Documentary Fictions","Art, Film, and Visual Studies",5
+"205260","GERMAN 291","Questions of Theory","Germanic Languages & Lit",1
+"205260","ROM-STD 201","Questions of Theory","Romance Languages & Lit",0
+"205261","GOV 94LF","Philanthropy and Nonprofits","Government",18
+"205263","GOV 94HL","Political Econ of Development","Government",14
+"205281","KORLIT 134","Kor Lit in Translation","East Asian Langs & Civ",9
+"205292","PSY 3570","Intergroup Relations: Grad.","Psychology",0
+"205295","NEUROBIO 215A","The Discipline of Neuroscience","Medical Sciences",0
+"205296","NEUROBIO 315QC","Human Neuroanatomy","Medical Sciences",0
+"205346","AFVS 141BR","Using Photography to Upset Exp","Art, Film, and Visual Studies",7
+"205352","PHIL 108","Aristotle's Practical Phil","Philosophy",14
+"205410","AFVS 63","On Objects: A Studio Course","Art, Film, and Visual Studies",4
+"205412","GENED 1080","How Music Works","General Education",64
+"205416","ASTRON 315","Ethics and Practice","Astronomy",0
+"205453","SOC-STD 98QB","Democracy & Ed. in America","Social Studies",10
+"205460","E-PSCI 263","Reading in Global Seismology","Earth & Planetary Sciences",0
+"205462","PHYSICS 350B","Exp Low Dimensional Materials","Physics",0
+"205483","SOC-STD 98QK","The Ideal of the Open Mind","Social Studies",5
+"205489","WOMGEN 1217","Psych. of the Gendered Body","Women, Gender & Sexuality",15
+"205492","HEB 1412","Human Energetics","Human Evolutionary Biology",12
+"205494","ANTHRO 98A","Junior Tutorial in Anthropolog","Anthropology",19
+"205501","PHYSICS 338A","Exp Neutrino Dark Matter","Physics",0
+"205519","ASTRON 5","Astrosociology","Astronomy",25
+"205527","SLAVIC 154","Nabokov","Slavic Languages & Literatures",5
+"205566","BPH 395","Regulation of programmed cell","Bio Sciences in Public Health",0
+"205567","E-PSCI 142","Mineralogy","Earth & Planetary Sciences",2
+"205574","HIST-LIT 90CU","Fashion and Slavery","History & Literature",7
+"205595","E-PSCI 360","Earth & Planetary Formation","Earth & Planetary Sciences",0
+"205610","PHYSICS 302B","Physics TF Training","Physics",0
+"205687","E-PSCI 361","Topics in Paleomagnetism","Earth & Planetary Sciences",0
+"205832","AFRIKAAN BA","Intermediate Afrikaans","African & African Amer Studies",14
+"205835","AFRIKAAN 101AR","Advanced Afrikaans","African & African Amer Studies",9
+"205842","WSTAFRCN AB","Elementary West African Pidgin","African & African Amer Studies",1
+"205845","AMHARIC 101AR","Advanced Amharic","African & African Amer Studies",3
+"205853","AMHARIC BA","Intermediate Amharic","African & African Amer Studies",2
+"205856","HAITIAN 101AR","Advanced Haitian Creole","African & African Amer Studies",1
+"205860","IGBO BA","Intermediate Igbo","African & African Amer Studies",7
+"205863","JAMAICAN BA","Intermediate Jamaica Patois","African & African Amer Studies",1
+"205865","IGBO 101AR","Advanced Igbo","African & African Amer Studies",2
+"205867","ENG-SCI 386","Drug Delivery Methodologies","Engineering Sciences",0
+"205869","JAMAICAN 101AR","Advanced Jamaican Patois","African & African Amer Studies",0
+"205872","SUDANESE 101AR","Advanced Sudanese Arabic","African & African Amer Studies",0
+"205875","TIGRINYA 101AR","Advanced Tigrinya","African & African Amer Studies",0
+"205879","ZULU 101AR","Advanced Zulu","African & African Amer Studies",2
+"205885","ENG-SCI 388","Quantum Materials","Engineering Sciences",0
+"205886","SUDANESE BA","Intermediate Sudanese Arabic","African & African Amer Studies",0
+"205887","TIGRINYA BA","Intermediate Tigrinya","African & African Amer Studies",2
+"205888","WSTAFRCN BA","Intermediate W. African Pidgin","African & African Amer Studies",4
+"205889","ZULU BA","Intermediate Zulu","African & African Amer Studies",1
+"205895","NEUROBIO 363L","The genetics, biochemistry and","Medical Sciences",0
+"205896","MICROBI 354","Molecular mechanisms of antivi","Medical Sciences",0
+"205897","MICROBI 355","Gut Microbiome and the immune","Medical Sciences",0
+"205902","ENG-SCI 312","Information Theory & App","Engineering Sciences",0
+"205903","IMMUN 348L","Epigenomic regulation of innat","Medical Sciences",0
+"205906","ARMEN AA","Elementary Modern Armenian I","Near Eastern Languages & Civ",3
+"205911","NEUROBIO 347L","Computational cognitive neuros","Medical Sciences",0
+"205912","NEUROBIO 358L","Genomic analyses of brain cell","Medical Sciences",0
+"205935","NEUROBIO 377L","Structure, function, and devel","Medical Sciences",0
+"205974","BBS 365","Identification of new protein","Medical Sciences",0
+"205975","GERMPHIL 261","Advanced Reading and Grammar","Germanic Languages & Lit",0
+"205982","SHONA 101AR","Advanced Shona","African & African Amer Studies",3
+"206566","COMPSCI 335","Complexity, Algorithms, Crypto","Computer Science",0
+"206574","SOMALI AA","Elementary Somali","African & African Amer Studies",0
+"206581","NKO BA","Intermediate Nko (Bamanankan)","African & African Amer Studies",0
+"206582","SOMALI BA","Intermediate Somali","African & African Amer Studies",0
+"206590","SOMALI 101AR","Advanced Somali","African & African Amer Studies",4
+"206597","GULLAH AA","Elementary Gullah","African & African Amer Studies",5
+"206599","GULLAH BA","Intermediate Gullah","African & African Amer Studies",2
+"206648","SAS 101R","South Asian Language Tutorials","South Asian Studies",0
+"206814","GOV 2071","Democratic Theory","Government",5
+"206819","TAM 91R","Tamil Supervised Readings","South Asian Studies",1
+"206892","MUSIC 143R","Topics in Modern Jazz","Music",6
+"206920","KAMBA AA","Elementary Kamba","African & African Amer Studies",0
+"206929","MUSIC 170R","Songwriting Workshop","Music",11
+"206946","PULAAR AA","Elementary Pulaar","African & African Amer Studies",0
+"206969","SOCIOL 2219","Transntl Histor Sociology","Sociology",0
+"207005","PHYSICS 19","Intro Theoretical Physics","Physics",27
+"207010","HIST 13T","Women in Economic Life","History",15
+"207015","RELIGION 1818","An Introduction to Shii Islam","Religion, The Study of",3
+"207090","MBB 980R","Psychopaths and Psychopathy","Mind, Brain & Behavior",15
+"207116","MED-SCI 312QC","Graduate TA Training in the Bi","Medical Sciences",0
+"207118","SOCIOL 90I","Res Lab: Immigration","Sociology",4
+"207164","GOV 1263","Improving Governance","Government",14
+"207171","BBS 366","Statistical methods for cancer","Medical Sciences",0
+"207213","CHEM 344","Inorganic & Materials Chemistr","Chemistry & Chemical Biology",0
+"207228","IMMUN 377","lymphocyte activation and immu","Medical Sciences",0
+"207230","CELLBIO 392","Computational & systems biolog","Medical Sciences",0
+"207239","IMMUN 379","Molecular determinants of T ce","Medical Sciences",0
+"207241","HBTM 388","Enhancers in Blood Cell Develo","Medical Sciences",0
+"207472","MCB 357","Bioinformatics","Molecular & Cellular Biology",0
+"207476","NEURO 80","Neurobiology of Behavior","Neuroscience",83
+"207485","MATH 22A","Vector Calculus and Linear Alg","Mathematics",55
+"207494","CHNSE 140XA","Adv Mod Chin for High-Prof","East Asian Langs & Civ",16
+"207507","FRSEMR 71G","Americans at Work in the Age o","Freshman Seminars",12
+"207509","FRSEMR 50Z","CRISPR, Genome Editing, and th","Freshman Seminars",16
+"207514","FRSEMR 51C","Science in the Age of Artifici","Freshman Seminars",10
+"207516","FRSEMR 62F","Talking, Literary Animals","Freshman Seminars",8
+"207517","FRSEMR 51E","The Story of the Alternating S","Freshman Seminars",8
+"207522","MATH 305","Topics in Symplectic Geometry","Mathematics",0
+"207524","HIST 1003","(Un)Happy Days","History",1
+"207529","HIST 1004","Modern Europe","History",35
+"207531","HIST 1902","Narrative History","History",5
+"207538","MATH 360","Topics in Algebraic Combinator","Mathematics",0
+"207546","APMTH 227","Computational Physics","Applied Mathematics",0
+"207555","ENGLISH 185E","The Essay: History & Practice","English",54
+"207556","ENGLISH 45","Arrivals: British Lit 700-1700","English",11
+"207568","PSY 2442R","Lab in Develop. & Psychopathol","Psychology",4
+"207571","TDM 109","Introduction to Acting","Theater, Dance & Media",12
+"207573","PSY 1309","Essentials of fMRI","Psychology",12
+"207586","ENGLISH 90BN","Black New England","English",0
+"207597","ENG-SCI 152","Circuits,Devices,Transduction","Engineering Sciences",8
+"207605","ENGLISH 102J","Introduction to Old English","English",17
+"207607","NEURO 148","The Neurobiology of Pain","Neuroscience",20
+"207609","COMPSCI 100","Software Engineering in Arts","Computer Science",20
+"207610","NEURO 101JA","How Brain Organizes World","Neuroscience",9
+"207612","NEURO 101KA","The Musical Brain","Neuroscience",11
+"207615","NEURO 101LA","The Neurobiology of Sleep","Neuroscience",12
+"207617","HISTSCI 183","Engineering East Asia","History of Science",14
+"207626","ENG-SCI 155","Systems and Control","Engineering Sciences",24
+"207631","SOCIOL 1126","Soc Age of Big Data","Sociology",50
+"207633","ENGLISH CNSR","Narrative Science Journalism","English",9
+"207641","ECON 2360","Microeconomics of Development","Economics",0
+"207657","ARMEN BA","Intermediate Modern Armenian I","Near Eastern Languages & Civ",1
+"207673","HAA 265R","Topics in Northern Ren.","History of Art & Architecture",0
+"207676","GERMAN 65","German Drama and Theater","Germanic Languages & Lit",5
+"207680","CHEM 156","Materials Chemistry","Chemistry & Chemical Biology",8
+"207690","HAA 92R","Design Speculations","History of Art & Architecture",2
+"207703","STAT 195","Stat Machine Learning","Statistics",8
+"207711","GOV 1433","Tech Science","Government",16
+"207729","GOV 3003A","Doctoral Dissertation","Government",0
+"207733","GOV 94GM","Politics of Climate Change","Government",10
+"207734","GOV 94GY","Transitional Justice","Government",11
+"207735","HAA 17K","Contemporary Art","History of Art & Architecture",0
+"207761","FRSEMR 51K","Technology vs. Nature: From To","Freshman Seminars",11
+"207763","FRSEMR 62I","Experiencing Poetry: Love, War","Freshman Seminars",9
+"207777","FRSEMR 71O","The Heart of Medicine: Patient","Freshman Seminars",12
+"207778","FRSEMR 62Q","Thinking about Race and the La","Freshman Seminars",12
+"207780","GOV 1021","Spatial Models","Government",3
+"207785","WOMGEN 1235","Gender and Language","Women, Gender & Sexuality",4
+"207802","PSY 980JR","Personality, Individual Differ","Psychology",14
+"207804","EMR 131","Histories of Emotional Labor","Ethnicity, Migration, Rights",3
+"207804","WOMGEN 1283","Histories of Emotional Labor","Women, Gender & Sexuality",14
+"207805","AFRAMER 131Y","Black Womens Voices in the #Me","African & African Amer Studies",25
+"207810","FRSEMR 62L","Knowing Cicero","Freshman Seminars",10
+"207812","FRSEMR 62P","War in Fiction and Film","Freshman Seminars",12
+"207818","FRSEMR 71N","The Causes and Consequences of","Freshman Seminars",12
+"207819","TDM 164H","Phillip Howze Playwriting 1","Theater, Dance & Media",10
+"207834","FRSEMR 51F","Understanding the Seemingly Im","Freshman Seminars",11
+"207836","SPANSH 72","Intro Spanish Lit and Culture","Romance Languages & Lit",19
+"207846","HIST-LIT 90DG","Cold War Berlin","History & Literature",15
+"207847","HIST-LIT 90DH","Student Activism","History & Literature",8
+"207848","HIST-LIT 90DI","Speculative Fictions","History & Literature",15
+"207849","HIST-LIT 90DJ","20th Century Native America","History & Literature",4
+"207850","HIST-LIT 90DK","Asian/American Graphic Novels","History & Literature",15
+"207854","HIST-LIT 90DO","Old Weird America","History & Literature",14
+"207863","HLTHPOL 3040","Research Sem in Hlth Policy","Health Policy",0
+"207866","SOCIOL 1120","Human Rights Israel and US","Sociology",5
+"207881","PSY 1014","How Students Learn","Psychology",17
+"207884","ENGLISH 370","Placement Seminar","English",0
+"207885","PSY 1662","The First Five Years","Psychology",8
+"207887","PSY 1585","Social Psychology and the Law","Psychology",29
+"207888","PSY 1586","Confronting Bias","Psychology",3
+"207914","SOC-STD 98RF","Neoliberalism in MENA","Social Studies",9
+"207917","GENED 1083","Perm Imperm: Buddhist Monument","General Education",19
+"207920","GOV 93B","Technology Science Practicum","Government",4
+"207944","INDO-PER 101","Readings in Indo-Persian Lit.I","South Asian Studies",0
+"207946","AFVS 197K","Cinemas of Resistance","Art, Film, and Visual Studies",15
+"207950","ITAL 138","Cosmos of the Divine Comedy","Romance Languages & Lit",3
+"208001","ECON 2905","Early Stage Research Economic","Economics",0
+"208004","ENG-SCI 280","Systems Engineering","Engineering Sciences",0
+"208016","BMIF 201","Concepts in genome analysis","Medical Sciences",0
+"208019","LING 90A","Advanced ASL Tutorial I","Linguistics",4
+"208031","RSEA 200","Topics Reg Studies East Asia","Regional Studies-East Asia",0
+"208044","ENG-SCI 91HFR","Humanitarian Design Projects","Engineering Sciences",12
+"208048","HEB 1392","Game Theory","Human Evolutionary Biology",90
+"208064","AFVS 255","Introduction to Critical Media","Art, Film, and Visual Studies",1
+"208153","MED-SCI 350C","DMS TIME:Course Related Work","Medical Sciences",0
+"208154","ANTHRO 1900","Counseling as Colonization?","Anthropology",6
+"208155","MED-SCI 350R","DMS TIME:Research Related Work","Medical Sciences",0
+"208156","TDM 169L","Immersive Storytelling Media","Theater, Dance & Media",5
+"208163","MED-SCI 350T","DMS TIME: Teaching Fellow","Medical Sciences",0
+"208164","BMIF 313QC","Computing Skills","Medical Sciences",0
+"208167","BPH 328","Scientific Research Work","Bio Sciences in Public Health",0
+"208257","CHEM 399","CCB Course Related Work","Chemistry & Chemical Biology",0
+"208265","GOV 1107","US-Mexico Relations","Government",39
+"208266","GOV 94RV","Corruption","Government",11
+"208279","EASTD 301","Independent TF Work","East Asian Langs & Civ",0
+"208280","EASTD 302","Independent Course Work","East Asian Langs & Civ",0
+"208282","EASTD 303","Independent Research","East Asian Langs & Civ",0
+"208298","HIST 3001","Teaching","History",0
+"208299","HIST 3002","Research","History",0
+"208300","HIST 3003","Course Work","History",0
+"208303","CELTIC 302","Teaching Modern Celtic Languag","Celtic Languages & Literatures",0
+"208304","GERMAN 310","Teaching","Germanic Languages & Lit",0
+"208305","GERMAN 320","Course-Related Work","Germanic Languages & Lit",0
+"208306","GERMAN 330","Research-Related Work","Germanic Languages & Lit",0
+"208307","CELTIC 303","Teaching Celtic Lit & Culture","Celtic Languages & Literatures",0
+"208311","ROM-STD 3000","Reading and Writing in RLLC","Romance Languages & Lit",0
+"208312","CELTIC 304","Teaching in Other Fields","Celtic Languages & Literatures",0
+"208313","HISTSCI 311","Pre-prospectus Course Work","History of Science",0
+"208315","HISTSCI 312","Teaching Fellowship","History of Science",0
+"208322","ASTRON 301","Teaching","Astronomy",0
+"208324","PHS 301","Teaching Fellowship","Population Health Sciences",0
+"208325","PHS 302","Research or Academic Study","Population Health Sciences",0
+"208326","DESIGN 302","Teaching","Arch, Landscape & Urban Plan",0
+"208327","DESIGN 303","Research Faculty Related","Arch, Landscape & Urban Plan",0
+"208331","LING 302T","Time Teaching","Linguistics",0
+"208332","LING 302R","Independent Research","Linguistics",0
+"208333","AFVS 161","Algorithmic Performance","Art, Film, and Visual Studies",2
+"208339","RSEA 390","Research","Regional Studies-East Asia",0
+"208344","ECON 985DA","Research in International Trad","Economics",12
+"208346","CLASSIC 303","Research and Teaching","Classics, The",0
+"208347","PEGV 3000","Doctoral Research","Political Economy & Government",0
+"208348","PPOL 3000","Doctoral Research","Public Policy",0
+"208352","ECON 3000","TIME","Economics",0
+"208353","MUSIC 305R","Dissertation Proposal Research","Music",0
+"208354","HLTHPOL 3001","Coursework and Research","Health Policy",0
+"208360","SLAVIC 370","Teaching Related Work","Slavic Languages & Literatures",0
+"208361","SLAVIC 380","Research-related Work","Slavic Languages & Literatures",0
+"208363","HAA 380","Graduate Teaching","History of Art & Architecture",0
+"208932","APPHY 278","Computational Phys Solids/Fiel","Applied Physics",0
+"208933","MUSIC 307T","Teaching Fellow","Music",0
+"208934","ENGLISH CBF","Breaking Form: Workshop","English",14
+"210859","ECON 2912","Labor Reading Group","Economics",0
+"210861","ECON 2903","Metrics Reading Group","Economics",0
+"210871","HBSDOC 3000","Reading and Research","Business School Doctoral",0
+"210873","PHYSICS 300R","Research-Related Work","Physics",0
+"210874","PHYSICS 300T","Teaching-Related Work","Physics",0
+"210875","PHYSICS 300C","Course-Related Work","Physics",0
+"210876","HLTHPOL 3003","Teaching","Health Policy",0
+"210877","HLTHPOL 3004","Dissertation Research","Health Policy",0
+"210880","EDU 300","Doctoral Research","Faculty of Arts & Sciences",0
+"210881","EDU 301","Doctoral Teaching","Faculty of Arts & Sciences",0
+"210882","EDU 302","Doctoral Independent Study","Faculty of Arts & Sciences",0
+"210892","ANTHRO 3410","Teaching Fellows","Anthropology",0
+"210893","APCOMP 399-TIME","Academic Related Work SEAS","Applied Computation",0
+"210896","ESE 138","Mysteries of Climate Dynamics","Environmental Sci & Engineer",2
+"210979","SAS 301","Graduate Teaching","South Asian Studies",0
+"210980","SAS 310","Direction of Doctoral Dissert","South Asian Studies",0
+"210981","AFRAMER 392","Teaching, Writing, and Researc","African & African Amer Studies",0
+"211047","PHYSICS 306A","Exp Phys in Quantum Mat","Physics",0
+"211049","BMIF 347","Antibiotic resistance, evoluti","Medical Sciences",0
+"211146","SOCIOL 1114","Racial Inequ & Pub Policy","Sociology",18
+"211161","SOCIOL 1113","Lantinx Identity and Mobilizat","Sociology",6
+"211170","AFRAMER 197X","Critiquing Black Muslim Reason","African & African Amer Studies",8
+"211181","ECON 2909","IO Reading Group","Economics",0
+"211192","AFVS 390","Graduate Studio Workshop","Art, Film, and Visual Studies",0
+"211199","NEC 370","Teaching","Near Eastern Languages & Civ",0
+"211200","NEC 380","Research","Near Eastern Languages & Civ",0
+"211204","ECON 1436","Economics and Morality","Economics",100
+"211217","AFRAMER 306","Theory and Race in the America","African & African Amer Studies",7
+"211229","BIOSTAT 311","Teaching Assistant","Biostatistics",0
+"211314","ECON 2910","Political Economy Reading Grou","Economics",0
+"211332","ECON 2906","Macroeconomics Reading Group","Economics",0
+"211334","APMTH 22A","Solving and Optimizing","Applied Mathematics",34
+"211358","E-PSCI 301","Teaching-Related Work","Earth & Planetary Sciences",0
+"212556","HEB 3300","Teaching Fellowship","Human Evolutionary Biology",0
+"212565","PHIL 301","Teaching","Philosophy",0
+"212566","PHIL 302","Research","Philosophy",0
+"212577","BMIF 333R","Introduction to Research","Medical Sciences",0
+"212593","OEB 306","Invert Paleobiol & Evolution","Organismic & Evolutionary Biol",0
+"212600","ENG-SCI 355","Bioelectronics","Engineering Sciences",0
+"212606","ENG-SCI 321","Edge Computing","Engineering Sciences",0
+"212607","APMTH 326","Theoretical Neuroscience","Applied Mathematics",0
+"212611","ENG-SCI 389","Atomistic Computational Design","Engineering Sciences",0
+"212612","MICROBI 385","Immune Surveillance of Stem Ce","Medical Sciences",0
+"212613","BMIF 355","Statistical genetics: fast alg","Medical Sciences",0
+"212641","CHNSLIT 235","Theater & Theatricality China","East Asian Langs & Civ",0
+"212644","EASTD 260","Lotus Sutra Texts, Narr., Tran","East Asian Langs & Civ",0
+"212645","EASTD 152","Tea in Japan / America","East Asian Langs & Civ",12
+"212652","SAS 126","Medieval/Modern Hist. Kashmir","South Asian Studies",0
+"212653","HIST 1921","The History of Law in Europe","History",6
+"212654","HIST 14L","The Crisis of Social Democracy","History",12
+"212655","HIST 14M","""Black Indians""","History",13
+"212657","HIST 14O","A Global History","History",1
+"212659","SOCIOL 1152","Conflict, Justice, and Healing","Sociology",18
+"212660","SOCIOL 1167","Sociology of Law","Sociology",12
+"212663","ANTHRO 1156","East of Babylon","Anthropology",1
+"212664","CLASPHIL 239","Intertextuality and Reception","Classics, The",4
+"212665","HIST 1009","The Making of the Modern","History",26
+"212667","SOCIOL 98ME","Jun Tut: Sports and Violence","Sociology",9
+"212669","HIST 1002","The 20th Century United States","History",38
+"212670","HIST 1020","The Russian and Chinese","History",14
+"212671","HIST 1056","The New Science","History",29
+"212673","HIST 1903","How Societies Remember","History",11
+"212675","HIST 1954","Jews and the City","History",2
+"212677","HIST 2007","Histories of Emotion","History",0
+"212679","HIST 2955A","History of Global Capitalism","History",0
+"212681","EASTD 304","EALC Teaching Practicum","East Asian Langs & Civ",0
+"212685","APPHY 286","Inference, Information Theory","Applied Physics",3
+"212686","COMPSCI 243","Advanced Computer Networks","Computer Science",4
+"212687","COMPSCI 249R","Advanced Topics Edge Computing","Computer Science",16
+"212688","SCRB 111","Regeneration: Phenomena to Me","Stem Cell & Regenerative Biol",12
+"212692","MATH 259X","Moduli Spaces in Algebraic Geo","Mathematics",1
+"212694","FRSEMR 51N","The Secrets of Stradivarius or","Freshman Seminars",12
+"212695","MATH 257Y","Techniques of Pluricanonical S","Mathematics",1
+"212696","FRSEMR 71P","Making Places and Spaces in Mo","Freshman Seminars",8
+"212697","FRSEMR 62U","Zombies and Spirits, Ghosts an","Freshman Seminars",11
+"212698","FRSEMR 71R","Dilemmas in the World’s Econom","Freshman Seminars",9
+"212701","FRSEMR 62W","Music from Earth","Freshman Seminars",11
+"212702","FRSEMR 71S","Crime and Punishment","Freshman Seminars",9
+"212703","FRSEMR 71T","“Dark Satanic Mills”: The Fact","Freshman Seminars",3
+"212704","FRSEMR 71U","The Psychological Roots of Opp","Freshman Seminars",12
+"212706","FRSEMR 62X","Regulation or Anarchy? The Sta","Freshman Seminars",12
+"212707","FRSEMR 71V","The Amazon: Ecology, Nature an","Freshman Seminars",12
+"212711","COMPLIT 153","Nabokov","Comparative Literature",8
+"212712","COMPLIT 172","Comp Literatures Indian Ocean","Comparative Literature",2
+"212714","COMPLIT 248","Literature, Cartography","Comparative Literature",2
+"212716","COMPLIT 228","Comparative Romanticism","Comparative Literature",0
+"212719","ENG-SCI 233","Water, Weather and Climate","Engineering Sciences",5
+"212727","SOCIOL 1046","Life and Death by Design","Sociology",40
+"212728","SOCIOL 1142","Sociology of Asian America","Sociology",13
+"212729","FRSEMR 62R","LGBT Life Stories","Freshman Seminars",12
+"212741","PSY 980AB","Habits and Habit Change","Psychology",9
+"212742","PSY 980AC","Mood Disorders","Psychology",10
+"212743","PSY 980AD","Psychopathology and the Family","Psychology",13
+"212752","ENGLISH 172LD","The Literature of Displacement","English",19
+"212754","ENGLISH 146ET","An Enlightenment for Today?","English",7
+"212758","ENGLISH 162BB","Broadway Bodies","English",38
+"212764","SOCIOL 2247","Nationalism/Citizen Comp Persp","Sociology",1
+"212765","GENED 1001","Stories from End of World","General Education",164
+"212766","GENED 1107","Energy Bodyworks","General Education",4
+"212770","FRSEMR 51O","Euclid’s Elements: The Classic","Freshman Seminars",4
+"212773","COMPLIT 128","Modernism in Theory and Practi","Comparative Literature",3
+"212774","ENGLISH 289M","Who Cares about Modernism?","English",0
+"212776","FRSEMR 71W","The Political Significance of","Freshman Seminars",10
+"212778","ENGLISH 202S","Saints' Lives","English",0
+"212779","FRSEMR 63C","The Symphonies of Dmitri Shost","Freshman Seminars",10
+"212780","ENGLISH 256CR","Comparative Romanticism","English",0
+"212781","FRSEMR 62S","Challenging Reality: Literatur","Freshman Seminars",11
+"212782","FRSEMR 63D","Ancient Greek Tragedy for the","Freshman Seminars",11
+"212785","FRSEMR 71Y","Habits, Rituals, and Living th","Freshman Seminars",11
+"212786","FRSEMR 63F","Gnosticism and Film","Freshman Seminars",4
+"212801","TDM 134R","Collaborative Art-Making","Theater, Dance & Media",6
+"212802","TDM 129B","Performing Puppetry","Theater, Dance & Media",7
+"212803","TDM 169C","Interdisciplinary Performance","Theater, Dance & Media",7
+"212805","PSY 2362R","Lab for Computat. Cog. Sci.","Psychology",0
+"212811","ENGLISH 165","Proust, Joyce, Woolf","English",29
+"212812","ECON 980J","The Libertarian Perspective","Economics",4
+"212813","TIBET 209","Issues w/ Śāntideva's Bodhi...","South Asian Studies",0
+"212814","TIBET 210","Readings in Tibetan Lit...","South Asian Studies",0
+"212818","MODGRK 10","Intro to Modern Greek Texts","Classics, The",4
+"212819","ENGLISH 350","Teaching Colloquium","English",0
+"212821","HIST-LIT 90DR","American Speeches","History & Literature",19
+"212823","HIST-LIT 90DT","Asian American History","History & Literature",9
+"212824","HIST-LIT 90DU","Queer Oral Histories","History & Literature",8
+"212825","HIST-LIT 90DV","Red Scares","History & Literature",19
+"212829","NEURO 129","Brain Dev, Pasticity, Decline","Neuroscience",9
+"212835","CLS-STDY 168","The Persian Empire","Classics, The",6
+"212838","GENED 1088","The Crusades-East/West","General Education",31
+"212839","GENED 1150","Medicine and Conflict","General Education",86
+"212840","GENED 1034","Texts in Transition","General Education",25
+"212841","GENED 1131","Loss","General Education",33
+"212844","GENED 1039","Higher Ed: Students, Instituti","General Education",43
+"212847","GENED 1154","The Science of Happiness","General Education",193
+"212848","GENED 1036","Global Feminisms","General Education",44
+"212849","GENED 1071","Wakanda Revisited: African Spi","General Education",6
+"212852","GENED 1016","Black Radicalism","General Education",51
+"212856","GENED 1146","Race and Justice","General Education",58
+"212862","HIST 14T","My Country Right or Wrong?","History",15
+"212863","ANTHRO 1186","Violence in the Human Past","Anthropology",11
+"212865","ANTHRO 2841","Ethnography as Practice","Anthropology",0
+"212866","MEDVLSTD 106","Alexander in Medieval World","Medieval Studies",2
+"212866","NEC 106","Alexander in Medieval World","Near Eastern Languages & Civ",1
+"212867","MATH 261X","Embedded Contact Homology","Mathematics",0
+"212872","MATH 262Y","Analytic Methods in Kahler Geo","Mathematics",2
+"212875","ANTHRO 1255","Human Diet","Anthropology",15
+"212878","PHIL 255","Ordinary Language Philosophy","Philosophy",0
+"212879","PHIL 273O","Objectivity and Subjectivity","Philosophy",5
+"212880","PHIL 278","Racial Justice","Philosophy",2
+"212883","GENED 1155","Literatures of Decolonization","General Education",11
+"212889","MATH 119","Introduction to Stochastic Cal","Mathematics",10
+"212892","WOMGEN 1413","Friendship as Way of Life","Women, Gender & Sexuality",0
+"212896","GENED 1038","Sleep","General Education",238
+"212897","HIST 14V","Walter Benjamin","History",12
+"212898","HIST 2003","Hegel and Marx","History",2
+"212901","SOCIOL 1119","Leadership, Soc Change: Boston","Sociology",17
+"212902","CLS-STDY 136","Dreams in the Ancient World","Classics, The",7
+"212903","CLS-STDY 148","Ancient Slavery","Classics, The",1
+"212904","LATIN 133","Poetry in Late Antiquity","Classics, The",3
+"212912","APMTH 226","Neural Computation","Applied Mathematics",0
+"212916","CLASPHIL 212","Aristotle on Motion","Classics, The",0
+"212916","PHIL 208A","Aristotle on Motion","Philosophy",0
+"212918","GENED 1118","The Holocaust","General Education",36
+"212920","ENG-SCI 285","Integrated Design","Engineering Sciences",0
+"212926","ROM-LANG 310","Article Publication Workshop","Romance Languages & Lit",0
+"212927","SOCIOL 1171","Crime and Order in Amer City","Sociology",28
+"212928","HIST 1636","Intro to Harvard History","History",133
+"212930","MATH 272Y","Rational Lattices and Their Th","Mathematics",0
+"212935","HISTSCI 141","On Health and Migration","History of Science",10
+"212936","HIST 2040","Air Pollution","History",4
+"212938","ECON 2071","Simplicity and Complexity in E","Economics",11
+"212943","ANTHRO 2637","Subaltern Anthropology","Anthropology",3
+"212944","MATH 289","Topics on Knots, 3 and 4-Manif","Mathematics",0
+"212947","HIST 14U","The Political Thought","History",9
+"212948","HAA 267K","Old Masters in a ‘New’ World","History of Art & Architecture",0
+"212949","HISTSCI 119VH","Science, Commerce, Colonialism","History of Science",7
+"212951","COMPSCI 325","Communicating with Machines","Computer Science",0
+"212953","STAT 161","Intro to Nonparametric Methods","Statistics",2
+"212958","HISTSCI 143VP","Therapeutics","History of Science",4
+"212962","HISTSCI 152VP","Technology and Modern Medicine","History of Science",26
+"212974","EASTD 98J","Political Economy China","East Asian Langs & Civ",6
+"212976","EASTD 197","China's Cultural Revolution","East Asian Langs & Civ",12
+"213246","FRSEMR 71Z","From Rocket Science to Fixing","Freshman Seminars",12
+"213247","FRSEMR 62Y","Back to the Future: How the Pa","Freshman Seminars",12
+"213248","FRSEMR 63H","Ethics for a Broken World","Freshman Seminars",12
+"213250","FRSEMR 63I","The First Americans: Portraits","Freshman Seminars",5
+"213251","PSY 1589","The Moral Life of Babies","Psychology",7
+"213252","FRSEMR 63J","Islam vs. Image?: Visual Repre","Freshman Seminars",4
+"213253","PSY 1588","Nudge Psychology","Psychology",20
+"213256","SOC-STD 98SE","Race and Ethnicity in US","Social Studies",9
+"213257","HIST 1125","Reasoning from the Past","History",8
+"213279","SOC-STD 98SA","Constitutional Theory","Social Studies",10
+"213280","SOC-STD 98ST","The Many Faces of Tyranny","Social Studies",9
+"213281","HIST 1947","The Imperial Map","History",3
+"213283","SOC-STD 96SD","The Crisis of Social Democracy","Social Studies",2
+"213284","RELIGION 1307","The Odyssey: Memory & Metaphor","Religion, The Study of",1
+"213294","RELIGION 2519","Coloniality, Race &Catastrophe","Religion, The Study of",0
+"213300","ENGLISH CEI","The Immigrant and the Exile","English",9
+"213301","ENGLISH CAP","The Art of the Personal Essay","English",9
+"213309","ENGLISH CHW","Haunted: Writing the Supernat","English",11
+"213310","OEB 213","Evolution & the shape of Life","Organismic & Evolutionary Biol",2
+"213326","ENGLISH 125LP","English Lyric Poetry","English",12
+"213332","HAA 282S","Japanese Buddhist Sculpture","History of Art & Architecture",1
+"213334","PSY 1012","Psychology of Music","Psychology",12
+"213337","JEWISHST 155","Covenant and Conversion","Near Eastern Languages & Civ",5
+"213351","SOCIOL 1124","Immigration and Gender","Sociology",9
+"213353","PSY 1519","Psych. of Competition","Psychology",37
+"213359","WOMGEN 3010A","The GenderSci Lab","Women, Gender & Sexuality",0
+"213364","GOV 94MCC","Peace-Building","Government",10
+"213365","ITAL 73","Healing Words after the Black","Romance Languages & Lit",3
+"213367","FRENCH 110","Marcel Proust and his times","Romance Languages & Lit",3
+"213368","GOV 94WC","Capitalism, Socialism & Democr","Government",5
+"213371","HIST-LIT 90DW","Queering the South","History & Literature",13
+"213372","HIST-LIT 90DX","Environmental Justice","History & Literature",6
+"213373","HIST-LIT 90DY","Race and American Empire","History & Literature",15
+"213379","HISTSCI 243","On the Archive","History of Science",0
+"213383","SOC-STD 60","Soc. and Pol. Methods Training","Social Studies",6
+"213390","EMR 135","Climate Migration","Ethnicity, Migration, Rights",12
+"213393","EMR 136","Race, Gender, Amer Empire","Ethnicity, Migration, Rights",9
+"213401","E-PSCI 349","Hydrometeorology/climatology","Earth & Planetary Sciences",0
+"213407","APMTH 10","Computing for Science Engineer","Applied Mathematics",13
+"213408","IRISH 206R","Studies in Early Irish Texts","Celtic Languages & Literatures",0
+"213409","WELSH 228","Written Welsh","Celtic Languages & Literatures",1
+"213418","PHIL 265A","Modern Moral Philosophy","Philosophy",0
+"213419","PHIL 344","Logic Colloquium","Philosophy",0
+"213421","AFVS 231","Studio Language","Art, Film, and Visual Studies",2
+"213422","SLAVIC 138","Apocalypse Then!","Slavic Languages & Literatures",0
+"213426","STAT 250","Designing Data Science Course","Statistics",3
+"213427","ECON 1084","Causes and Consequences Ineq","Economics",33
+"213434","AFRAMER 196","Introduction to African Litera","African & African Amer Studies",2
+"213435","AFRAMER 196X","Literature, Society and Politi","African & African Amer Studies",1
+"213436","GOV 94CD","Global Governance, Int Organiz","Government",15
+"213437","ROM-STD 235A","Ethnic Studies:Past,Present,Fu","Romance Languages & Lit",0
+"213440","AFRAMER 171X","African Art and Religion","African & African Amer Studies",1
+"213441","AFRAMER 197Y","The African Diaspora: Time, Sp","African & African Amer Studies",7
+"213453","PHIL 300AB","First Year Colloquium","Philosophy",0
+"213467","ANTHRO 1824","Race and Genetics","Anthropology",10
+"213475","AFVS 144M","Photography and Ecology","Art, Film, and Visual Studies",16
+"213478","STAT 185","Dimension Reduction","Statistics",12
+"213482","HISTSCI 239","History of Biology","History of Science",4
+"213502","ANTHRO 1687","Wheat, Coffee, Cotton","Anthropology",15
+"213503","ANTHRO 1926","Is More Money a Good Thing?","Anthropology",9
+"213508","AFVS 81R","Malleable Forms (A Studio of T","Art, Film, and Visual Studies",5
+"213513","RELIGION 3421","Adv New Test & Ancient Med","Religion, The Study of",0
+"213521","SAS 183","The Vernacular in South Asia","South Asian Studies",0
+"213522","ECON 1088","Financial Markets for the Poor","Economics",33
+"213526","HISTSCI 128VD","Nature, Energy, Industry","History of Science",4
+"213534","SLAVIC 399A","Slavic Graduate Proseminar","Slavic Languages & Literatures",0
+"213536","SOCIOL 1153","Subcultures","Sociology",8
+"213543","ENGLISH 90CB","Chekhov/Beckett","English",12
+"213555","ECON 2904","Historical Econ Dev Reading Gr","Economics",0
+"213558","PHIL 316AR","Embedded EthiCS Teaching Lab","Philosophy",0
+"213559","EMR 139","Coloniality, Race, Catastrophe","Ethnicity, Migration, Rights",2
+"213560","APPHY 202","Mechanics in Earth","Applied Physics",0
+"213561","HAA 17Z","Black Rock, White City","History of Art & Architecture",29
+"213571","ENGLISH 90AP","Race, Identity, and American P","English",10
+"213572","HISTSCI 131A","Transforming Technologies","History of Science",2
+"213573","ENGLISH 52","Poets: Poetry and Everything","English",24
+"213575","ENGLISH 282A","Ethnic Studies: Past, Present,","English",0
+"213577","PSY 991A","Senior Tutorial: Honors Thesis","Psychology",15
+"213579","HEB 1311","Evolution of Human Locomotion","Human Evolutionary Biology",4
+"213580","HEB 1381","The Arrogant Ape","Human Evolutionary Biology",10
+"213583","AFVS 64F","Video as Medium","Art, Film, and Visual Studies",5
+"213597","STAT 397","Design of Studies","Statistics",0
+"213600","HEB 2390","Cultural Evolution","Human Evolutionary Biology",0
+"213604","GOV 94JH","American Cyber Politics","Government",11
+"213605","JEWISHST 160","BERLIN: GERMAN CAPITAL, JEWISH","Near Eastern Languages & Civ",0
+"213610","GERMAN 222","Schelling, Goethe, & Schlegel","Germanic Languages & Lit",0
+"213612","ISLAMCIV 160","Islamic Ethics: Between Reason","Near Eastern Languages & Civ",4
+"213615","MATH 334","Topics in Algebraic K-Theory","Mathematics",0
+"213620","GERMAN 108","M. Eckhart and His Successors","Germanic Languages & Lit",2
+"213622","SYRIAC AB","Intermediate Syriac I","Near Eastern Languages & Civ",0
+"213624","GOV 1389","How Decision Makers Translate","Government",11
+"213626","SYRIAC 130A","Advanced Syriac","Near Eastern Languages & Civ",0
+"213630","ENGLISH 90EW","The Empire Writes Back","English",15
+"213652","PERSIAN 157","Storytellers' Drama: Iranian T","Near Eastern Languages & Civ",1
+"213653","COMPSCI 282BR","Topics in Machine Learning","Computer Science",10
+"213667","OEB 314","Landscape Ecology","Organismic & Evolutionary Biol",0
+"213669","ESE 129","Climate and Atmos Phys Lab","Environmental Sci & Engineer",4
+"213670","GOV 1247","Geopolitics of Energy","Government",23
+"213672","E-PSCI 129","Climate and Atmos Phys Lab","Earth & Planetary Sciences",3
+"213673","FOLKMYTH 131","The Storyteller in Flight","Folklore & Mythology",9
+"213680","COMPSCI 385","AI for Social Good","Computer Science",0
+"213688","ITAL 111","Italian Cinema and Fiction","Romance Languages & Lit",5
+"213703","ECON 985EA","Research in Behavioral Economi","Economics",12
+"213704","ECON 985FA","Research in Macroeconomics,","Economics",12
+"213705","ECON 985GA","Research in Finance, Trade, In","Economics",10
+"213706","ECON 985HA","Research in Development, Polit","Economics",11
+"213707","ECON 985OA","Research in Applied Microecono","Economics",10
+"213721","IMMUN 365","Sage Lab B cell responses","Medical Sciences",0
+"213724","NEUROBIO 389L","Enteric nervous system regulat","Medical Sciences",0
+"213730","ENGLISH 90PP","Plotting the Passions","English",19
+"213732","ENG-SCI 298BR","Principles of Collective Learn","Engineering Sciences",1
+"213734","GOV 94DB","Meritocracy and its critics","Government",12
+"214343","GENED 1078","Disease, Illness, Health","General Education",47
+"214346","EMR 140","Immigration Policy & Practice","Ethnicity, Migration, Rights",11
+"214347","BPH 318QC","Topics Immun & Infectious Dise","Bio Sciences in Public Health",0
+"214348","MATH 399","Writing and Research","Mathematics",0
+"214352","BMIF 334","Computational Genomics","Medical Sciences",0
+"214358","ENGLISH 282PH","Public Humanities Practicum","English",1
+"214369","HASSANIY AA","Hassaniyah AA","African & African Amer Studies",0
+"214388","AMSTDIES 395","Graduate Coursework","American Studies",0
+"214418","ISLAMCIV 246","Integration of Mentally Ill","Near Eastern Languages & Civ",0
+"214419","ISLAMCIV 245","Egypt’s Supreme Court","Near Eastern Languages & Civ",0
+"214425","NEUROBIO 391L","Sensory Bio and Cell Phys","Medical Sciences",0
+"214428","NEUROBIO 392L","Somatosensory System","Medical Sciences",0
+"214429","HIST 2538","Introduction to Islamic Law","History",0
+"214435","TDM 149U","Hip Hop Dance","Theater, Dance & Media",31
+"214437","MCB 320A","Gene Expression Regulation","Molecular & Cellular Biology",0
+"214441","ENG-SCI 298CR","Methodologies Design Engineer","Engineering Sciences",0
+"214450","EWE AA","EWE AA","African & African Amer Studies",0
+"214455","ECON 985NA","Research in Microeconomics, Ma","Economics",10
+"214463","RSRA 300","Graduate Research","Russia, E Europe, Central Asia",0
+"214477","COMPSCI 387","Stat Reinforcement Learning","Computer Science",0
+"214501","SOCIOL 91RR","Supervised Reading and Researc","Sociology",1
+"218177","PHIL 177I","Historical Injustice","Philosophy",9
